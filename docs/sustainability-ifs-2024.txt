@@ -1,0 +1,6403 @@
+Sustainability
+Report 2024
+
+1
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+About this report
+
+This Sustainability Report
+builds on three years of
+dedicated reporting and
+transparency, highlighting
+the commitments and
+investments enabled by
+our global team of 7000+
+employees in more than
+80 countries.
+We report on sustainability annually on our website, through our Year in Review
+report and Annual Report. The contents of this report, including all information and
+data, have been internally reviewed and assessed by management. Additionally,
+EY provided limited assurance over selected environmental and social key
+performance indicators. The report is for the calendar year 2024 and is for the
+organization IFS AB and its subsidiaries, reported at the entity level of IGT Holding
+III AB, referred to as 'IFS', 'Group' or 'the company' throughout. Our Sustainability
+Report was prepared with reference to the Global Reporting Initiative (GRI),
+Sustainability Accounting Standards Board (SASB) Standards and International
+Sustainability Standards Board (ISSB) Standards.
+For further information or queries about the
+report please contact sustainability@ifs.com
+
+Cover Photograph Morize Lange
+
+Our Approach
+
+Leadership reflections
+2024 Highlights
+Industrial AI and Sustainability Embedded
+Governance
+Material Sustainability Topics
+Climate-Related Disclosures
+
+Our Business
+
+3
+5
+6
+8
+11
+13
+
+17
+23
+26
+27
+28
+29
+
+30
+
+Strategic Focus for IFS Cloud
+Product Direction
+
+32
+34
+
+38
+
+IFS Foundation
+Education Program
+Volunteering
+
+Annex
+
+17
+
+Environmental Impact
+Our People
+Human Rights and Anti-Corruption
+Sustainable Procurement
+IFS Cybersecurity & Privacy
+Tax Strategy
+
+Our Customers
+
+Broader Impact
+
+2
+
+39
+40
+41
+
+42
+
+Auditor's Report
+KPI Definitions
+GHG Inventory Breakdown
+GRI Index Table
+SASB
+UN Global Compact
+
+43
+44
+46
+47
+49
+50
+
+2
+
+Introduction
+
+This year has been exceptional,
+with significant achievements
+that underscore our unwavering
+commitment to sustainability.”
+Mark Moffat
+CEO
+
+Leadership reflections
+2024 Highlights
+Industrial AI and Sustainability Embedded
+Governance
+Material Sustainability Topics
+Climate-Related Disclosures
+
+3
+5
+6
+8
+11
+13
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Our
+Approach
+Photograph Kurt Rebry
+
+3
+
+CEO's
+Statement
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+As we present the 2024 IFS
+Sustainability Report, I am proud to
+reflect on three years of dedicated
+reporting and transparency.
+
+This year has been exceptional,
+with significant achievements
+that underscore our unwavering
+commitment to sustainability.”
+
+This year has been exceptional,
+with significant achievements
+that underscore our unwavering
+commitment to sustainability.
+
+We maintained best-in-class
+participation rates for our
+Pulse survey, achieving a
+global participation rate of
+93% with a total of 18,300
+comments. Our diversity
+& inclusion commitments
+have been furthered through
+multiple initiatives, including
+the Neurodiversity Employee
+Resource Group.
+
+We have reached multiple
+sustainability targets ahead
+of schedule. Our collaboration
+with 156 educational institutions
+and the increase in female
+managers to 33% are
+testaments to our ongoing
+efforts. Additionally, 25% of our
+employees volunteered in 2024,
+surpassing our target of 20%
+and achieving a fivefold growth
+since 2021.
+Our dedication to expanding
+our CSRD alignment has been
+steadfast. We conducted
+a robust double materiality
+assessment and closed more
+than 70% of our gaps in
+2024. By adopting the latest
+best practice principles of
+double materiality, we have
+comprehensively evaluated key
+sustainability issues significant
+to both IFS operations and our
+stakeholders.
+
+In collaboration with PwC
+UK*, we developed a CSRDcompliant system as part of
+our Sustainability Management
+Module.
+By combining PwC's regulatory
+expertise with IFS’s technical
+capabilities, we successfully
+automated 18 key performance
+indicators in 2024, including
+metrics like employee turnover
+rate, total full-time employees,
+and gender statistics.
+As we look ahead, we remain
+committed to our new 2029
+Vision, which emphasizes
+building a high-performing
+team and leveraging Industrial
+AI to drive our sustainability
+initiatives.
+
+Our approach is twofold:
+integrating sustainability into
+our internal operations while
+aspiring to lead in the industry.
+We will continue to strengthen
+our network of Sustainability
+Business Partners (SBPs),
+ensuring that our efforts are
+collaborative and impactful.
+By leveraging AI and
+sustainability, we aim to
+establish a unique position in
+the market, working closely with
+our customers to validate and
+enhance this approach. Our
+commitment to sustainability
+is deeply aligned with IFS core
+values, and we will continue
+to embed these principles
+into every aspect of our
+business. Together, we can
+achieve a more sustainable
+future, driving positive change
+for our community and the
+environment.
+
+Mark Moffat
+CEO
+
+Annex
+
+Through
+collaboration
+with our team,
+customers and
+partners, we will
+continue to drive
+a lasting positive
+impact.”
+
+CSO Letter
+I firmly believe in the technology
+sector’s ability to drive
+transformational change
+across various industries,
+offering the ‘how’ roadmap for
+the transition to a low-carbon,
+more sustainable future.
+Industrial AI is a critical part of
+that story, and IFS is already
+helping our customers to do
+more with less, transform to new
+ways of working, and manage
+their sustainability performance
+transparently.
+I am proud that this year we
+have continued to build on our
+robust sustainability strategy
+to drive meaningful results.
+Through collaboration with our
+team, customers and partners,
+we will continue to drive a lasting
+positive impact.
+
+Sophie Graham
+Chief Sustainability Officer
+
+*	Where “PwC” is referenced, it relates specifically
+to the collaboration with IFS and PwC UK, the
+UK member firm, part of the PwC network. Each
+member firm is a separate legal entity.
+
+4
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Leadership
+Reflections
+
+Strong
+governance and
+ethical business
+practices form
+the cornerstone
+of IFS operations.
+I’m proud to say that we are
+dedicated to maintaining
+the highest standards of
+integrity and transparency
+by reinforcing the role of
+the Board in overseeing our
+sustainability strategy. By
+embedding ESG principles
+into our core processes, we
+ensure that our business
+decisions align with our
+values and produce
+measurable outcomes.
+This proactive approach
+enables us, as a company,
+to continuously enhance
+our impact and create
+meaningful value.˝
+
+Jacqueline de Rojas
+Board Level Sustainability
+Representative
+
+Since joining IFS
+in 2024, I have
+been impressed
+by how closely
+sustainability is
+integrated into
+the company’s
+overall culture.
+It is clearly seen that IFS is
+dedicated to fostering an
+environment where every
+employee feels recognized
+and valued for their unique
+differences. High employee
+engagement is also viewed
+as a key part of actively
+participating in internal
+sustainability initiatives,
+such as CSR Day and Get
+Fit challenge. We are proud
+that in 2024, 25.46% of
+employees volunteered,
+beating our target of 20%
+ahead of our initial schedule.˝
+
+Debra McCowan
+Chief HR Officer
+
+Our commitment
+to sustainability
+is central to our
+long-term success
+and financial
+resilience.
+By integrating ESG principles
+into our core strategies
+and financial decisionmaking processes, we foster
+sustainable growth and
+create lasting value for our
+stakeholders. Our focus
+on responsible practices
+ensures that we allocate
+resources effectively,
+manage risks prudently, and
+seize opportunities that align
+with our values.
+It is clear that sustainability
+reporting now holds
+the same importance
+as financial reporting,
+helping us navigate today’s
+challenges and capitalize on
+tomorrow’s opportunities.
+
+Matthias Heiden
+Chief Financial Officer
+
+Innovation and
+excellence are
+at the core of
+everything we do.
+We are committed
+to pushing the
+boundaries of
+technology with
+sustainability
+embedded.
+The main goal behind
+this is to provide the best
+tools for our customers to
+drive meaningful change
+within their organizations.
+Embedding advanced
+analytics, fuelled by
+Industrial AI and AI
+Agents, into our solutions
+further advances our
+sustainability offering
+by helping customers to
+identify opportunities for
+improvement, optimize
+operations, and make
+data-driven decisions in
+real time that support both
+sustainability and business
+objectives. This will continue
+to be our key priority as we
+move forward.˝
+
+Christian Pedersen
+Chief Product Officer
+
+The growing
+importance of
+sustainability
+reporting and
+data security as
+strategic priorities
+has made CIOs
+key strategic
+partners in the
+Sustainability
+roadmap.
+Businesses are now being
+challenged to develop
+creative, innovative
+solutions to showcase their
+commitment to a more
+sustainable future. This
+need for innovation will only
+intensify as we move forward
+and IFS is ready to be part of
+this on that journey.˝
+
+Helena Nimmo
+Chief Information Officer
+
+As a company, we
+are always striving
+to innovate and
+stay ahead of
+technological
+advancements.
+In 2024, we launched IFS.
+ai, announcing our goal to
+become a leader in industrial
+AI. Sustainability principles
+are at the heart of this vision.
+From how we design our
+products to how we engage
+with our clients, every action
+is driven by our commitment
+to sustainability and ethical
+practices. As part of this,
+we are currently developing
+an ethical guide for AI
+integration, which will enable
+our customers to better
+understand our commitment.˝
+
+Bianca Nobilo
+Chief External Affairs
+Officer
+
+5
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Highlights
+
+The percentage of female managers
+in IFS, reflecting a year-on-year
+increase in female leadership.
+
+IFS Featured in the
+Docuseries ‘New Heroes
+of Sustainable Business’
+In 2024, IFS was featured in Datamaran’s
+new docuseries ‘New Heroes of
+Sustainable Business’. The episode
+highlights visionary business leaders
+who are championing corporate
+sustainability. The series aims to inspire
+viewers while offering practical insights
+for creating real-world impact.
+
+TOP
+
+As part of this initiative, IFS CEO Mark
+Moffat and CSO Sophie Graham discuss
+how we, as a company, are driving
+change, unlocking new opportunities,
+and reshaping industries for a more
+sustainable future.
+
+CSR Volunteering Days taken
+by 25% employees, surpassing
+our original target of 20%
+
+6
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Industrial AI and
+Sustainability Embedded
+IFS 2029 Strategy
+
+Over the last five years, IFS has built
+the foundations that have enabled
+it to establish and now accelerate
+its dominance in industrial software.
+Towards the end of 2024, CEO Mark
+Moffat outlined a refreshed five-year
+strategy for the company. A bold new
+Vision and Mission were put into place.
+
+Vision and Mission
+Vision To be the number one recognized
+technology brand in Industrial Software,
+the undisputed category leader.
+Mission To power the next Industrial
+Revolution using AI to transform the
+hardcore industries running mission-critical
+assets and operations. Industrial AI is IFS.ai.
+
+Key Elements of the 2029 Strategy
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Delivering Outstanding
+Moments of Service
+
+Constantly
+Innovating
+
+Resilient and
+Sustainable Growth
+
+Investing in a Thriving
+Partner
+
+Creating a Diverse
+and High-Performance
+Workforce
+
+IFS is a customer-focused
+organization dedicated
+to delivering value at the
+"Moment of Service." We
+prioritize commercial
+impact, time-to-value,
+ROI, and sustainability
+benefits in a Business
+Value Assurance
+model. This year, IFS
+set ambitious customer
+satisfaction targets
+of 85%, underscoring
+our commitment to
+exceptional service and
+value.
+
+Product excellence is at
+the core of IFS, driving
+the development of
+our leading industrial
+AI platform, IFS.
+ai. This platform
+helps customers
+manage critical
+assets, workflows, and
+services, and is rapidly
+being adopted due
+to over 100 customerspecific AI use cases.
+Through acquisitions
+of Copperleaf and
+EmpowerMX in 2024, IFS
+strengthens innovation
+and industry depth in
+offerings, providing
+more effective solutions
+to customers.
+
+IFS drives resilient and
+sustainable growth by
+supporting customers
+through their digital
+transformation journey.
+Sustainability is
+embedded in IFS Cloud,
+aligning with customer
+demand for solutions
+which drive progress
+towards ambitious
+sustainability goals
+and performance
+management. IFS.ai
+is enabling customers
+to do more with less,
+transition to new
+ways of working, and
+providing a foundation
+of robust ESG data.
+
+IFS’s success in 2024
+was driven by the
+growth of our global
+partner community.
+As a partner-first
+organization, IFS aims
+to increase partner
+revenue contribution
+from 40% to 50%. With
+a network of global
+partners, including
+collaboration on
+sustainability, we
+ensure that customers
+have more choice,
+innovation, and global
+reach.
+
+IFS is becoming a
+recognized employer
+of choice, focusing
+on employee growth,
+development, and
+creating an inclusive,
+collaborative team. Our
+focus on excellence in
+our business includes
+employee wellbeing, career
+progression, and corporate
+culture. With an employee
+engagement score of 8.3,
+IFS places in the top 25%
+of technology.
+
+IFS is committed to delivering a strategy that
+puts customers at the center, delivers value
+for shareholders, empowers employees and
+generates growth that consistently outperforms
+the market.
+
+Sustainability Contributing
+to Business Vision
+Our commitment to embedding sustainability
+across our business plays a pivotal role in
+delivering our 2029 vision. IFS will contribute
+to a more sustainable future, both through our
+own actions and by supporting our customers in
+asset-intensive, heavily regulated and hard-toabate sectors that are at the forefront of the
+transition to a green, circular economy.
+
+Read more in IFS Year in Review
+Year in Review 2024.
+
+As a company, we depend on the talent that
+we have in the business, and continuing to build
+high-performing, diverse teams will position
+IFS to deliver the innovation that is critical to
+success.
+We believe that sustainability is best achieved
+through collaboration, which is why we
+work closely with our customers to identify
+opportunities to assist them and continually
+evolve our offerings together with a growing
+partner network. Sustainability should never be
+a standalone effort; it becomes truly successful
+only when integrated into an organization’s
+business strategy and daily operations. This is
+why “Sustainability Embedded” is a central tenet
+of our strategy.
+
+7
+
+IFS Sustainability Report 2024
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Sustainability
+Strategy
+This year we continued our mission to transform
+industries and improve lives through technology,
+while making consistent progress in integrating
+sustainability into our daily operations. In 2021,
+we developed a sustainability strategy focused
+on addressing the most impactful sustainability
+topics where IFS can make a difference.
+This strategy is built around three key pillars
+that support a clear and actionable mission:
+‘Excellence in Our Business’, ‘Supporting Our
+Customers’, and ‘Making a Broader Impact’.
+
+Committed to support customers with
+industrial AI, enabling them to embed
+sustainability through their operations.
+
+Sustainability Management
+
+Fair and inclusive workplace
+
+Emissions Management
+
+Innovation Managment
+and AI
+
+Circular Operations
+
+Supply Chain
+Sustainability
+Performant and
+Sustainability Assets
+Business ethics &
+Compliance management
+
+
+Emissions Management in IFS Cloud
+
+*	For more details on our Science Based Target initiative,
+please refer to the "Environmental Impact" section, page 18.
+
+IFS CSR volunteering day 20%
+employee use in 2024​
+
+8
+
+Governance
+
+Introduction
+
+Our approach
+
+Our customers
+
+Broader impact
+
+Annex
+
+Sustainability
+governance structure
+
+Sustainability governance structure
+Sustainability is governed by a quarterly ESG
+Steering Committee (ESG SteerCo), chaired by
+the Chief Sustainability Officer. Our SteerCo
+serves as the central body responsible for
+shaping and overseeing the execution of
+our sustainability strategy. This includes
+setting goals and targets, and ensuring
+strong alignment and collaboration across
+all functions. In 2024, the SteerCo’s agenda
+focused on our CSRD and Taxonomy alignment,
+decarbonization strategy and our Science
+Based Target, alongside diversity and inclusion
+and sustainability product development. Each
+key area has a designated workstream lead who
+collaborates closely with the Chief Sustainability
+Officer to provide quarterly updates to a
+broader group.
+
+Our business
+
+Board/board-level
+committee
+
+Annual update
+
+Approving direction
+of business on
+sustainability
+	
+Balancing interests
+of stakeholders
+	
+Upskilling of Board
+on sustainability
+
+SteerCo
+
+Executive and senior
+leadership oversight
+and direction
+	
+Ensuring alignment
+with business strategy
+and resourcing
+	
+
+Quarterly
+updates
+
+Sustainability
+Business Partners
+
+Activate the
+sustainability strategy
+within the business and
+support to drive this
+forward in their area
+	
+Receive training and
+objectives related to
+Sustainability
+	
+
+Monthly meetings
+
+Sustainability team
+
+Working groups
+
+	
+
+	
+
+Center of expertise
+for the business on
+sustainability
+	
+Coordinate delivery of
+sustainability strategy,
+risk management,
+communication and
+disclosures
+
+Progress specific
+projects aligned to
+strategy
+	
+For example, ESG
+project innovation,
+carbon footprint,
+annual report,
+marketing
+
+Biweekly or
+as needed
+for projects
+
+Partners/third
+parties
+
+Specialist expertise
+and resource
+	
+Support on execution
+and specific projects
+	
+Independent viewpoint
+and assurance
+	
+
+9
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Governance
+continued
+Sustainability Business Partners
+Launched in 2023, the Sustainability Business
+Partners (SBP) network has grown significantly this
+year, welcoming new members and expanding its
+influence across the organization. The network
+bridges the gap between sustainability strategy
+and day-to-day operations, ensuring sustainable
+principles are integral to business decisionmaking and practices.
+Members develop expertise specific to their
+work areas, enhancing their ability to address
+sustainability challenges in an industry-specific
+context. This targeted approach connects the
+general sustainability framework to the unique
+needs of their functions, driving tangible action.
+Cross-functional working groups are a key part
+of our approach, bringing together expertise
+from across the business to tackle specific
+sustainability challenges. We have established
+groups focused on CSRD compliance, EU
+taxonomy, and decarbonization, among others,
+and continue to expand these efforts in response
+to emerging needs.
+
+These groups serve as platforms for
+collaboration, knowledge sharing, and
+developing concrete solutions that integrate
+sustainability into core business activities.
+In 2024, IFS introduced its Sustainability
+Academy, which serves as an internal training
+program where members can deepen their
+understanding of industry-relevant sustainability
+aspects. The academy offers tailored learning
+experiences that address the most pressing
+challenges faced by the organization. In
+addition to internal development, we provide
+access to external training programs,
+ensuring our members stay at the forefront of
+sustainability knowledge and best practices.
+As part of our strategy, we aim to integrate
+our mergers and acquisitions (M&A) activities
+across all areas, including the SBPs network.
+In 2024, IFS Ultimo established a dedicated
+Sustainability Business Partner within the IFS SBP
+network, helping to embed a unified approach
+to sustainability across the IFS Group.
+Through these initiatives, the Sustainability
+Business Partner Network plays a vital role in
+translating sustainability strategy into action,
+ensuring that sustainability is not just a goal
+but a fundamental part of how we operate.
+
+Serving as a
+Sustainability
+Business Partner
+is an enriching
+journey that goes
+beyond regulatory
+compliance.
+It has provided a unique
+opportunity to integrate
+sustainability into our risk
+management framework,
+drive meaningful change
+and balance between
+economic, social and
+environmental facets. The
+training received through
+the Sustainability Academy
+has been instrumental in
+expanding my knowledge
+and understanding on
+regulatory framework and
+best ESG practices and
+helped me in driving the
+sustainability culture in the
+organization and personally.”
+
+Farhath Mowlana
+Senior Risk Manager
+
+Being a
+Sustainability
+Business Partner
+in Facilities
+Management
+is not just about
+reducing costs
+and conserving
+resources; it is
+about leading the
+way to a greener,
+healthier, and
+more resilient
+future for all.
+
+The Sustainability
+Business Partner
+(SBP) network
+helps us listen
+across disciplines
+and learn about
+sustainability
+practices, enabling
+us to evolve our
+products with
+innovative,
+environmentally
+responsible
+solutions.”
+
+By incorporating sustainable
+practices and strategies that
+align with our company's
+overarching goals and
+objectives through
+collaboration, SBPs bring
+specialized knowledge from
+all sectors of the business
+effectively contributing to
+creating environments that
+inspire productivity, enhance
+well-being, and reflect our
+unwavering commitment to
+sustainability for a brighter
+future.”
+
+Orjan Ekstrom
+
+Nicola Carton
+Global Head of Workplace
+Experience
+
+Director Project
+Management
+
+10
+
+Governance
+continued
+Copperleaf and EmpowerMX
+join IFS family
+We understand that the path to sustainability
+requires changes in every aspect of a
+company's operations and spans its entire
+value chain. One priority for us is integrating
+sustainability into our mergers and acquisitions
+(M&A) activity. At IFS, we ensure that we assess
+not only the financial assets and liabilities of a
+target company but also its environmental and
+social impacts.
+
+Introduction
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+External frameworks
+UN Global Compact
+Signatory
+
+UN Sustainable
+Development Goals
+
+Science Based Targets
+initiative (SBTi)
+
+We are proud to be a
+signatory to the UN
+Global Compact, which
+acts as a framework
+and guidance for
+all businesses and
+companies to support
+in defining sustainability
+strategy and provides
+a universal language
+for corporate
+responsibility. For more
+information on the
+Compact please refer to
+unglobalcompact.org
+
+IFS is committed
+to supporting the
+achievement of the UN’s
+Sustainable Development
+Goals (SDGs). Adopted
+worldwide, the SDGs
+represent a universal
+call to end poverty,
+protect the planet, and
+ensure that by 2030,
+all people enjoy peace
+and prosperity. We have
+identified five key SDGs
+that are most relevant to
+our business and sector,
+based on our sphere of
+influence and the material
+impact on our key
+stakeholders:
+
+In 2023, the SBTi approved
+IFS’ near-term (2030)
+science-based emissions
+reduction target following
+our submission earlier in
+the year.
+
+In 2024, IFS completed its acquisition of
+Copperleaf, a leading provider of AI-powered
+Enterprise Asset Investment Planning and
+Management (AIPM) software. This acquisition
+allows us to thread sustainability through the
+asset lifecycle, as it integrates environmental
+and social criteria into investment planning
+decisions through decision analytics.
+
+In 2024, IFS also acquired EmpowerMX, a
+leading provider of AI-powered aviation
+maintenance software. This technology
+enables smarter, more efficient maintenance,
+repair, and overhaul (MRO) operations. By
+combining IFS industrial AI with EmpowerX's
+capabilities, aviation customers benefit from
+deep industry-specific AI capabilities. In
+the face of challenges such as unexpected
+downtime, supply chain disruption, labor
+and skill shortages, this offering enhances
+resilience, efficiency and safety in airline
+operations.
+
+Our approach
+
+More details are disclosed
+in our dedicated
+Environmental section.
+
+Year-Over-Year Progress Table
+Target
+Female managers
+
+Number of reportable
+data breaches
+Number of
+educational
+institutions engaged
+(cumulative)
+CSR Volunteering
+Days taken by
+Near-term 2030
+Science Based
+Target
+
+2023 Status
+
+2024 Progress
+
+32%
+0
+123
+
+33%
+0
+156
+
+17.2%
+
+25.5%
+
+2030 Science Based Target
+validated by the Science
+Based Targets initiative
+(SBTi)
+
+Maintained procurement
+of 100% renewable
+electricity across global
+offices
+
+ISSB
+
+CSRD
+
+In July 2023, the
+International
+Sustainability Standards
+Board (ISSB) issued
+its inaugural IFRS
+Sustainability Disclosure
+Standards, taking over
+from the Task Force on
+Climate-Related Financial
+Disclosures (TCFD).
+
+In 2023, IFS started its
+alignment towards EU
+Corporate Sustainability
+Reporting Directive
+(CSRD) requirements. This
+year, we continued our
+efforts in expanding our
+CSRD alignment.
+
+More details are disclosed
+in our dedicated ISSB
+section of this report.
+
+More details are disclosed
+in our dedicated CSRD
+section of this report.
+
+11
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Material Sustainability Topics
+
+This year, we continued our efforts to strengthen
+our CSRD alignment by establishing a new,
+robust double materiality assessment, initiating
+our internal work on EU Taxonomy and working
+closely with internal stakeholders on the
+gap analysis and action plan. As a result of
+our consistent involvement in each of these
+
+prioritized areas, we managed to close more
+than 70% of our CSRD gaps by the year end of
+2024. However, we recognize that there is still
+more to be done, and we are working closely
+with the business to fully align with CSRD
+requirements.
+
+Double Materiality
+We understand that a thorough materiality
+assessment is the foundation of an effective
+sustainability strategy. It guides our approach
+to strategy, risk and opportunity assessment,
+disclosure structure, and preparation for
+regulatory frameworks, such as the CSRD.
+
+In 2024, we adopted the latest best practice
+principles of double materiality, conducting a
+comprehensive evaluation of key sustainability
+issues that are significant both to IFS operations
+and our stakeholders. For this, we partnered
+with Datamaran, an ESG risk identification
+and monitoring software company that uses a
+comprehensive data-driven process to identify,
+prioritize and monitor sustainability issues.
+Its business intelligence tool aims to leverage
+artificial intelligence to incorporate a wide array
+of inputs, including corporate reports, global
+regulations, social media and online news.
+
+Using Datamaran’s help, we produced a
+materiality assessment driven by both our
+in-house ESG perspective, internal stakeholder
+priorities and AI based technology. This type
+of assessment involved a robust examination
+of our business activities, as well as those
+occurring within IFS value chain—both upstream
+and downstream.
+As part of the assessment, we identified 11
+material topics that were further used for
+Impacts, Risks, and Opportunities (IRO)
+mapping. These were ranked below.
+
+		
+
+Our approach: Double Materiality process with Datamaran
+Year 1
+
+Set up
+Governance
+process
+mapping
+	
+Value Chain
+Mapping
+	
+
+Identification
+of IROs
+Topic screening
+Long-list of IROs
+
+	
+
+	
+
+Assessment of
+Material IROs
+Engagement
+with SMEs
+	
+Threshold
+determination
+	
+
+Year n
+
+Validation
+Executive level
+validation
+	
+Third-party audit
+preparation
+	
+
+Reporting
+Identify material
+ESRS datapoints
+	
+DMA process
+disclosure
+	
+
+Ongoing automated monitoring to track impacts, risks and opportunities
+*	EFRAG Materiality Assessment Implementation Guidance, Paragraph 161: While it is possible to perform an annual update focused on the consequences of the
+identified changes, the materiality assessment is a dynamic process subject to the inherent evolution of the undertaking and needs to be updated on an ongoing basis.
+
+Publish report/Auditing
+
+IFS is taking steps to align with regulatory
+requirements, including the EU Corporate
+Sustainability Directive (CSRD) and EU
+taxonomy. Notably, IFS also established
+governance around CSRD, appointing
+stakeholders across the business to oversee
+specific reporting areas, supported by
+Sustainability SteerCo oversight and regular
+updates to the Board Audit Committee.
+
+Annual materiality
+update & ongoing
+Monitoring
+
+	
+
+Highlight
+changes in IROs
+at Sustainability
+committee and
+Executive meetings
+
+	
+
+12
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Material Sustainability Topics
+continued
+During 2025, we will incorporate this analysis
+into IFS' refreshed sustainability strategy,
+governance and targets, to reflect the focus
+areas most relevant to our business. We will
+use dynamic assessments for ongoing “pulse”
+analyses, which help identify shifts in the
+macro environment and emerging IROs. These
+insights are also integrated into our enterprise
+risk management, resource planning and
+sustainability reporting, ensuring management
+of relevant topics and alignment with regulatory
+standards.
+
+Identified Material Topics
+
+EU Taxonomy
+EU taxonomy is a classification system
+established by the European Union to provide
+a common unified framework to determine
+whether an economic activity is environmentally
+sustainable. The taxonomy defines two main
+categories, taxonomy-eligible activities,
+which fall within the sectors covered by the EU
+Taxonomy, and taxonomy-aligned activities,
+which meet the specific screening criteria
+for environmental sustainability set out in the
+framework.
+
+As part of a joint effort between the
+Sustainability and Finance teams, and with
+the support of PwC, these activities have
+been identified and are included in the scope
+of assurance, ensuring the accuracy and
+credibility of our reporting.
+Looking ahead, we plan to take further steps
+in 2025 to ensure we are fully prepared for the
+reporting requirements and in alignment with
+regulatory expectations. To achieve this, we
+will focus on the following priorities:
+
+Its main purpose is to direct investment towards
+economic activities that contribute to key
+environmental objectives, such as climate
+change mitigation and adaptation.
+It also focuses on enhancing transparency for
+investors and stakeholders by preventing green
+washing and mitigating market fragmentation.
+
+Comprehensive Data Collection
+We will gather all necessary data for the
+identified eligible activities, ensuring
+completeness and accuracy to support the
+assessment process. This includes refining
+internal processes for tracking sustainabilityrelated performance metrics.
+
+In 2024, we began our internal work on the EU
+Taxonomy as part of our CSRD reporting efforts,
+with a key focus on identifying eligible activities
+within IFS.
+
+Assessment Against Technical
+Screening Criteria
+Each eligible activity will be evaluated against
+the EU Taxonomy’s technical screening criteria
+to determine whether it meets the substantial
+contribution requirements for environmental
+objectives.
+Evaluation of Do No Significant Harm (DNSH)
+and Minimum Safeguards
+We will conduct a thorough review to confirm
+that all eligible activities comply with the
+“Do No Significant Harm” principle and meet
+the EU’s minimum social and governance
+safeguards.
+Development of a Sustainability
+EU Taxonomy Policy
+To ensure a structured and transparent
+approach, we will establish a formal
+Sustainability EU Taxonomy Policy. This
+policy will outline our governance framework,
+roles, and responsibilities, as well as the
+methodologies we will use to assess taxonomy
+alignment.
+
+Taxonomy roadmap
+
+1
+
+2
+
+3
+4
+
+Completed economic activities​
+Identification of all economic
+activities of the organization that
+could be considered for eligibility and
+assessment of the availability of KPI
+data.
+
+Eligible activities
+Assessment of eligibility, by comparing
+the organization's economic activity to
+the definition as per the EU taxonomy.
+Development of EU taxonomy policy.
+
+Data collection
+Collection of revenue, CapEx,
+and OpEx financial data.
+
+Aligned Activities
+Assessment of each eligible activity
+against:
+Compliance with Technical Screening
+Criteria (Substantial Contribution and
+Do No Significant Harm)
+	
+Meeting Minimum Safeguards
+	
+
+5
+6
+
+7
+
+Implementation
+Establishment of BAU processes to
+collect granular data, monitoring of
+eligible activities.
+
+Disclosures
+Disclosures Reporting of Turnover,
+CapEx, and OpEx KPIs, and supporting
+information in accordance with the EU
+Taxonomy Delegated Acts
+
+Disclosures
+Reporting in accordance
+with EU Taxonomy.
+
+13
+
+Introduction
+
+Our approach
+
+Climate-Related
+Disclosures
+Background to the ISSB
+In July 2023, the International Sustainability
+Standards Board (ISSB) issued its inaugural
+IFRS Sustainability Disclosure Standards—IFRS
+S1 (General Requirements for Disclosure of
+Sustainability-related Financial Information)
+and IFRS S2 (Climate-related Disclosures).
+This marked a shift in the global landscape
+for climate-related risk disclosures, with the
+Financial Stability Board (FSB) transferring
+responsibility for monitoring climate-related
+disclosures to the IFRS Foundation. The ISSB
+sits underneath the IFRS alongside its sister
+organization, the International Accounting
+Standards Board (IASB). IFRS actively promotes
+connectivity between IASB and ISSB standards.
+The IFRS S1 and S1 standards are the next
+evolution of the widely accepted Taskforce on
+Climate-related Financial Disclosures (TCFD)
+recommendations, previously issued by the FSB.
+
+Our business
+
+Area
+
+Whilst the new standards contain some
+differences, the core objectives remain the
+same as the TCFD’s – to raise sustainability
+disclosures to the level of financial disclosures
+– thereby improving businesses’ ability to
+assess and act on non-financial risks and
+opportunities, and to enable investors to obtain
+a holistic view of business performance and
+strategies for sustainability-related topics.
+According to IFRS, the momentum behind the
+new standards is growing – as of September
+2024, 30 jurisdictions have either adopted or are
+taking steps to introduce ISSB Standards in their
+legal or regulatory frameworks. Together, these
+jurisdictions represent:
+
+	
+More than 40% of global market
+
+ 
+
+Strategy
+
+ 
+
+Risk
+Management
+
+capitalization; and
+
+	
+More than half of global greenhouse
+
+gas (GHG) emissions.
+
+How IFS is aligning with ISSB Standards
+In 2023, IFS reported in alignment with the
+TCFD recommendations. Since the publishing
+of the new ISSB standards, we have adapted our
+climate-related disclosures to align with the ISSB
+Standards and ensure we are following the latest
+best practice. In 2024, our first year of reporting
+under ISSB, we apply transition relief (IFRS S1
+paragraph E5), meaning we focus on climaterelated disclosures only.
+
+International
+Sustainability
+Standards Board
+(ISSB)
+
+Looking ahead to 2025, we will broaden our
+sustainability disclosures to increase our
+alignment with the requirements of IFRS S1 and
+S2 in parallel with our work on CSRD alignment.
+The ESRS has a high degree of interoperability
+with both ISSB standards so these workstreams
+are complimentary.
+
+2024 Targets
+
+Governance
+
+IFRS S2 mirrors the TCFD’s recommendations
+with a small number of additions whilst the
+IFRS S1 standard goes beyond just climate to
+encompass broader sustainability-related
+disclosures.
+
+domestic product.
+
+International
+Accounting
+Standards Board
+(IASB)
+
+Broader impact
+
+Annex
+
+Our ISSB Roadmap
+
+	
+Approximately 57% of global gross
+
+IFRS Standards
+
+Our customers
+
+Metrics
+& Targets
+
+Upskill Board and Executive
+Leadership Team (ELT) in climate
+ Further integrate climate related
+topics into Board and ELT strategic
+decisions
+ E xpand and upskill SBP network
+
+Enhance risk and opportunity
+screening to involve wider range of
+internal, senior, and possibly external
+stakeholders
+ Review existing risk and opportunity
+time horizon classifications to factor
+in climate related topics that may
+materialize over the long term
+ Conduct quantitative climate
+scenario analysis to assess financial
+impacts of material climate-related
+risks and opportunities
+
+	Integrate identified climate-related
+risks into risk libraries and upskill
+operational risk owners in climate
+related risk
+ Consider relative prioritization and
+materiality of climate and ESGrelated risks and other business risks.
+
+l
+
+	Report progress against agreed
+targets and aim to improve data
+accuracy across all three Scopes.
+l	Consider metrics to track progress
+relating to identified climate-related
+risks and opportunities.
+l	Evaluate business case for additional
+corporate climate related targets.
+l
+
+2024 Progress
+ xternal engagement between executives and climate experts
+E
+to assess potential decarbonization benefits of IFS solutions
+ Held a dedicated session on climate commitments with full ELT
+participation
+ Held 4 sessions at Board (or Board Committees) on
+sustainability and climate
+ E xpanded SBP network to include M&A and other key
+functional areas.
+ Launched Sustainability Academy for upskilling SBP network
+with monthly workshops.
+ 
+
+Held external risk assessment to identify and monitor climate
+related risks and opportunities.
+ Quarterly touchpoint meetings with C-Level Execs on climate
+related risks and opportunities related to their respective
+business area.
+ Conducted a Double Materiality Assessment in collaboration
+with third-party provider, providing expert external perspective
+on material risks and opportunities.
+ Revised risk and opportunity classifications to extend medium
+and long-term time horizons, ensuring better alignment with
+climate-related challenges and business resilience (see Climate
+related risks and opportunities section).
+ Completed comprehensive climate scenario analysis with
+Climate X, analyzing physical climate hazards across 52
+global offices
+ 
+
+	Successfully embedded climate risks and opportunities
+extended time horizons into functional risk registers, which are
+then integrated into the Enterprise risk register and owned by
+the ERM team
+l	Captured climate-related risks and opportunities into
+enterprise-wide risk assessments by prioritizing them based on
+overall residual risk levels.
+l	Highlighted the importance of reporting climate related risk
+and opportunities as part of regular upskilling workshops for
+functional teams.
+l
+
+ 	Improved data accuracy for Scope 1, 2, and 3 emissions
+reporting through enhanced measurement and verification
+processes
+l	Reduced reliance on estimated emissions data for Scope 1
+and Scope 2 emissions, improving the reliability of carbon
+accounting with more primary data.
+l	E xpanded Scope 1 measurement to include fleet and
+fugitive emissions, and Scope 3 to include waste generated
+in operations, increasing completeness and accuracy of
+emissions data.
+ Continued to source 100% renewable electricity across
+global offices.
+ Mitigating action plans for climate risks and opportunities with
+above a certain threshold are regularly monitored to ensure
+timely completion or address any deviations.
+ Collaborated with the SBP network to set internal sustainabilityrelated goals, which include climate-related goals.
+l
+
+14
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+ISSB Standards Alignment
+The Road Ahead
+In 2025, we will continue to build on the progress
+made in 2024 by expanding and strengthening
+our initiatives across governance, strategy, risk
+management, and metrics & targets.
+While climate-related goals remain a key focus,
+we plan to broaden our approach to encompass
+overall sustainability and our efforts will include
+upskilling leadership, embedding sustainability
+into decision-making, and strengthening risk
+assessments and reporting.
+Governance
+Sustainability topics including climate strategy,
+metrics and targets are managed under the IFS
+Sustainability Governance framework.
+In 2024, climate-related risk and opportunity
+management was fully integrated into our
+Enterprise Risk Management (ERM) framework,
+aligning this with our broader risk management
+processes and ensuring sustainability topics
+are considered as part of daily operational and
+strategic planning. The ERM is governed by the
+IFS Global Risk function who continue to work
+closely with the IF Global Sustainability Team on
+sustainability-related topics.
+For more information on the IFS Sustainability
+Governance model please refer to page 8 of our
+“Our Approach” section. For more information
+on the IFS ERM please refer to the Risk
+Management section below.
+Strategy
+In 2024, IFS continued to assess our key climaterelated risks and opportunities, following on
+from work conducted in 2023 with the IFS
+Sustainability Business Partner (SBP) community
+and PwC, to identify, benchmark, and evaluate
+the potential impacts and of these topics on our
+business over a number of climate scenarios.
+
+Climate-related Risks*
+Risk
+IFS faces increased cost of compliance due to
+additional sustainability-reporting obligations
+Value Chain Location
+Operations
+Time Horizon**
+Medium: 3-10 Years
+Type
+Transition
+Reputational damage from unsubstantiated
+sustainability claims
+Value Chain Location
+Operations
+Time Horizon
+Short Term: 1-3 Years
+Type
+Transition
+IFS required to make significant investments
+to decarbonise its value chain
+Value Chain Location
+All
+Time Horizon
+Medium: 3-10 Years
+Type
+Transition
+
+Disruption to workforce, facilities, and IT
+infrastructure caused by adverse changes in
+weather
+Value Chain Location
+Operations, Downstream
+Time Horizon
+Medium: 3-10 Years
+Type
+Physical
+
+Business Impact
+ ustainability reporting obligations, including on climateS
+related topics, may increase due to broad regulations (e.g.
+CSRD), pressure to comply with public commitments (e.g. SBTi),
+and customer, shareholder, and employee expectations.
+ Potential impacts include financial costs to meet reporting
+requirements from new systems and processes, additional
+headcount, and contracted third party services such as
+assurance, and reputational damage and financial penalties for
+non-compliance.
+ 
+
+ ublic marketing claims relating to sustainability could be
+P
+subject to more intense scrutiny in future. Claims that are
+misleading, inaccurate, or unsubstantiated could receive
+significant backlash if exposed.
+ Potential impacts include reputational damage from external
+stakeholders and employees, and financial penalties for noncompliance with “anti-greenwashing” legislation (e.g. EU Green
+Claims Directive).
+ 
+
+ ecarbonisation of value chain activities in line with public
+D
+emission reduction targets is challenging given limited control
+and influence over customer and suppliers and is likely to
+increase in cost and difficulty with business growth.
+ Potential impacts include the financial cost of internal
+decarbonisation levers, and reputational damage from external
+stakeholders and employees in the case of failure to meet or
+progress towards stated goals.
+ 
+
+ egative effects of climate change as a result of increased
+N
+anthropogenic GHG emissions include increasing extreme
+weather events such as cyclones and floods, as well as rising
+temperatures and sea levels.
+ Potential impacts include revenue loss from disruptions to
+business continuity – this could be from workforce being unable
+to effectively work or from damaged IT infrastructure effectively
+deliver service to customers – and increased operational costs
+from facilities and IT infrastructure e.g. from increased use of
+Heating, Ventilation, and Air Conditioning (HVAC) system
+ 
+
+Mitigation Response
+I FS Sustainability Team, in collaboration with global partners,
+continuously monitors global regulations that are applicable to IFS.
+This also includes IFS participation in events and webinars to discuss
+key regulations and best practices in the industry.
+ In 2024, IFS continued implementing its action plan to enhance
+alignment with Corporate Sustainability Reporting Directive
+(CSRD) requirements. As part of this effort, we conducted a double
+materiality assessment and collaborated with PwC to develop a
+CSRD-focused data management and reporting system within our
+IFS Cloud platform.
+ 
+
+ ell-established sustainability governance framework including
+W
+Executive oversight at ESG SteerCo.
+ Close collaboration with Marketing function to govern content and
+ensure accuracy of claims.
+ Internal training and materials provided to raise awareness of
+characteristics of successful sustainability claims.
+ 
+
+I FS decarbonisation strategy of reduce, replace and engage has
+been in place since 2022. Procurement of 100% renewable electricity
+for global offices since 2022 has reduced market-based Scope 2
+emissions significantly.
+ Implementation of new standard terms and conditions for suppliers
+including sustainability criteria encourages supplier climate action.
+ Installation of 2x new EV chargers at IFS Staines office encourages
+greener commutes, with bike-to-work schemes, and hybrid working
+practices supported where practical.
+ Customers actively encouraged to move to our cloud-based
+platform, reducing emissions compared to typical on-premise
+deployments due to higher utilisation in the cloud.
+ 
+
+I FS equips majority of workforce with appropriate equipment and
+tooling to work from home temporarily to deliver client services.
+ Facilities team have actively considered sustainability criteria in
+selection of new offices since 2022 ensuring selected buildings are
+energy efficient, climate resilient, and not exposed to high levels of
+climate risk.
+ IFS partners with global leaders in cloud hosting services with global
+distribution and data redundancy to mitigate potential risks to
+services.
+ In 2024, IFS conducted an in-depth physical climate risk analysis on
+52 global offices via market-leading climate risk platform, Climate
+X. This enabled us to visualise the risk profile of our existing office
+portfolio, and plan for the future.
+ 
+
+15
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+ISSB Standards Alignment
+continued
+In 2024, we collaborated with climate risk
+experts Climate X to conduct new scenario
+analysis focused around the potential impacts
+of physical climate hazards on our global
+offices.
+See Risk Management section, page 16, for
+more information on how IFS manages risks
+and opportunities.
+Climate Resilience Analysis
+In 2023, IFS engaged with PwC to conduct
+qualitative climate scenario analysis focused
+on our most important climate-related risks and
+opportunities. You can read more about this
+analysis in our 2023 Sustainability Report.
+In 2024, we continued to monitor and manage
+key climate-related risks and opportunities, and
+in addition, conducted quantitative analysis on
+our global offices. These sites were assessed
+against 11 physical climate hazards and three
+different climate scenarios using Spectra, a
+proprietary digital platform developed by
+market-leading climate risk specialists,
+Climate X.
+Strategic Planning
+This year, we used Spectra to evaluate the
+anticipated climate risk profiles of our existing
+office portfolio. This allowed us to identify
+offices with higher risk profiles and determine
+the appropriate actions to mitigate or adapt
+to potential climate impacts.
+In future, we plan to further integrate physical
+climate risk analysis into our strategic real
+estate assessment and decisions, including
+during potential lease renewals and office
+relocations.
+
+Climate-related Opportunities*
+Opportunity
+
+Business Impact
+
+Business Response
+
+Increased revenue from new IFS sustainabilityfocused solutions
+
+	Technology solutions that can drive operational gains, financial
+returns and sustainability benefits provide a win-win-win
+scenario for customers.
+	Sustainability data quality is another key challenge customers
+are seeking to resolve, to enable compliance and avoid
+penalties, and to drive better decision-making and business
+valuation.
+	Potential impacts include increased revenue from growing
+sales of cloud-based solutions that satisfy customers growing
+sustainability needs, and increased brand recognition for
+sustainability excellence.
+
+	In 2024 IFS invested in “sustainability embedded” as a core message
+– having sustainability threaded seamlessly throughout our customer
+solutions to deliver triple wins including operational, financial, and
+sustainability benefits – and we have developed new messaging,
+content and training to support this positioning.
+	We also developed new solutions to support customers with
+managing their sustainability data and reporting needs: IFS Cloud
+Sustainability Management and IFS Cloud Emission Management.
+	We continue to grow headcount in our Product teams that are
+focused on sustainability.
+
+Value Chain Location
+Operations
+Time Horizon*
+Short Term: 1-3 Years
+Type
+Transition
+
+*	The following climate risks and opportunities were identified as material in the 2024 Impact Risk and Opportunities exercise and were assessed against the materiality threshold defined by the CSRD.
+The threshold was benchmarked at a risk/opportunity level value classified as “Critical” or “Severe” (from five categories: Controlled, Serious, Disruptive, Severe, or Critical.)
+** IFS has defined time horizons for the classification of risks and strategic opportunities as per our Enterprise Risk Management framework: Short Term: 1-3 Years, Medium Term: 3-10 Years, Long Term: 10+ Years.
+
+Spectra Hazard Ratings
+For a quick and easy interpretation of risk,
+each hazard is assigned a rating. These ratings
+consider the potential physical and financial
+impact that would be associated with the
+severity of a climate-related event, combined
+with the likelihood of that event happening.
+As different types of events will have different
+levels of impact, each hazard type has its own
+rating definition. For all hazards the risk ratings
+go from A to F, with A representing the lowest
+risk and F representing the highest risk.
+Portfolio Analysis Results
+The analysis described is based on the SSP5-8.5
+climate scenario which represents a highemission, fossil-fuelled development scenario.
+Using this scenario enables conservative risk
+management and planning.
+
+Considering the 2020 to 2030 timeframe, the
+proportion of offices exposed to high-impact
+risk (rating E-F) in 2030 remained relatively
+low at 0% for 6 hazards and 4-19% for 5
+hazards. The analysis showed surface flooding,
+subsidence and extreme heat increasing in risk
+profile, with the share of offices increasing from
+0-4% up to 10-12% for these hazards. All other
+hazards demonstrated flat or decreasing risk
+profiles for high-impact risk (E-F rating).
+
+Scenario Selection
+To ensure consistency with our 2023
+scenario analysis, we selected the below
+Shared Socioeconomic Pathways (SSPs). As
+mentioned above, we primarily use SSP5-8.5 for
+conservative risk management and planning, as
+well as 2030- and 2050-time horizons.
+
+When considering the longer-term picture, the
+proportion of offices exposed to high-impact
+risk (rating E-F) remains relatively low to 2045
+at ~10% when considering aggregated scores
+across hazards and assets. There is however a
+clear uptick in potential exposure after 2045
+with ~15% of offices facing high-impact risk by
+2100.
+
+SSP1-2.6
+
+Low-emissions scenario
+
+SSP2-4.5
+
+Middle of the road scenario
+
+SSP5-8.5
+
+High-emissions scenario
+
+Scenario selection
+
+16
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+ISSB Standards Alignment
+continued
+Risk Management
+Enterprise Risk Management Framework
+IFS employs a structured Enterprise Risk
+Management Framework to systematically
+identify, assess, and mitigate risks that impact
+the organization.
+At its core is the enterprise risk register, a
+centralized repository for all material risks at
+the Group level. Risks and opportunities are
+identified, evaluated, and managed by local
+management teams in each region or business
+unit. They are responsible for recognizing and
+assessing risks and opportunities specific
+to their operations, ensuring that proactive
+mitigation strategies are in place. Each plan
+is assigned an owner, with mitigation actions
+tracked against defined timelines to maintain
+accountability and ensure progress. The risk
+register is updated at least annually to reflect
+changes in the company’s structure, operations,
+and material risk landscape.
+
+Metrics & Targets
+Targets
+I FS has an approved 2030 Science Based
+Target
+I FS commits to reduce absolute scope 1 and
+2 GHG emissions 42% by 2030 from a 2022
+base year.
+I FS also commits to reduce absolute scope
+3 GHG emissions from purchased goods
+and services, business travel, and employee
+commuting 25% within the same timeframe.
+Read more
+For more details on SBTi commitment, please
+refer to the "Environmental Impact" section,
+page 18.
+
+External risks are also identified and assessed
+to establish the impact to the business,
+and material risks are escalated to the
+local management teams and Executive
+Management for deliberation and necessary
+action.
+The IFS Global Risk Management Function
+oversees the annual risk assessment, ensuring
+adherence to the established Enterprise Risk
+Management Policy. Material business risks and
+incidents are reported to the Chief Financial
+Officer (CFO), who evaluates them against
+mitigation strategies and action plans to assess
+their effectiveness in reducing residual risk
+levels.
+A comprehensive risk overview is then presented
+to the Chief Executive Officer (CEO), Audit
+Committee, and Board of Directors for informed
+decision-making.
+By integrating risk management into its strategic
+planning, IFS maintains alignment with business
+objectives while ensuring accountability,
+adaptability, and resilience.
+
+Metrics
+
+Climate-Related Risk Progress and Integration
+
+I FS utilizes Scope 1-3 emissions and energy
+consumption as measures for performance
+against targets.
+I FS tracks energy consumption and manages
+Scope 1-3 emissions through our proprietary
+carbon accounting platform, IFS Cloud
+Emissions Management.
+
+Read more
+Please check our "GHG Inventory Breakdown"
+section for more details on page 46.
+
+In 2023, IFS conducted a climate risk and
+opportunity analysis workstream (see 2023
+Sustainability Report). This was delivered in
+parallel to our enterprise risk management
+process. In 2024, we successfully integrated
+the two processes, with climate-related
+risk and opportunity management now
+fully integrated into our Enterprise Risk
+Management (ERM) framework.
+
+As part of this process, the risks and
+opportunities previously identified were
+integrated into risk registers at functional
+level. This change enhances awareness of
+sustainability risks across business functions
+and delivers a more collaborative approach
+to managing risk across the organization.
+By embedding sustainability into risk
+management, IFS strengthens its ability to
+anticipate, mitigate, and adapt to evolving
+sustainability challenges.
+
+17
+
+Introduction
+
+With the negative impacts of
+climate change growing by the
+day, businesses must do more
+to reduce their environmental
+impact whilst simultaneously
+delivering against financial
+targets. We are seeing a renewed
+emphasis on sustainability
+initiatives that drive commercial
+benefits and deliver “win-win”
+outcomes. At IFS we are focused
+on the quick wins that deliver
+both sustainability and business
+benefits, whilst continuing to
+work towards more challenging
+long-term goals, such as our
+2030 Science Based Target.”
+Michael Batstone
+Global Climate Strategy Manager
+
+Environmental Impact
+Our People
+Human Rights and Anti-Corruption
+Sustainable Procurement
+IFS Cybersecurity & Privacy
+Tax Strategy
+
+18
+23
+26
+27
+28
+29
+
+Our
+Business
+Photograph Getty Images
+
+18
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Environmental
+impact
+At IFS, we are committed to reducing our
+environmental impact while continuing to
+achieve world-class business performance.
+This commitment is reflected in our direct
+efforts to reduce our own operational footprint,
+as well as impacts across our wider value chain
+through engagement and collaboration with
+value chain partners.
+In 2024, we:
+	
+Procured 100% renewable electricity across
+all our global offices*
+	
+ igrated three offices to more sustainable
+M
+premises** as part of our evolving Green
+Facilities Strategy
+	
+Purchased sustainability aviation fuel (SAF) to
+reduce travel emissions by 145 tCO2e versus
+conventional aviation fuel***
+
+Key regulations and
+frameworks include:
+	 Europe
+	EU CSRD (Corporate
+Sustainability Reporting
+Directive), CBAM (Carbon
+Border Adjustment Mechanism),
+EUDR (EU Deforestation
+Regulation), and CSDDD
+(Corporate Sustainability Due
+Diligence Directive), EU Green
+Claims Directive
+United States
+	SEC Climate Disclosure
+requirements alongside Federal
+and state-level regulations.
+	 Global
+	ISSB IFRS S1 and S2 Sustainability
+Disclosure Standards, which
+are applied in 30+ jurisdictions
+globally as of September 2024.
+
+	
+Invested in a portfolio of high-quality,
+
+brand-aligned carbon credits projects
+through a multi-year offtake agreement
+with partner, Patch
+	
+Improved data accuracy by reducing the
+proportion of estimated Scope 1 and 2 emission
+data vs 2023
+ igrated to IFS Cloud Emissions Management,
+M
+improving emissions data accuracy by
+enabling selection of more granular emissions
+factors via expert partner, Climatiq
+*	delivered through a combination of bundled and unbundled RECs,
+includes all offices over which IFS has operational control, excluding
+serviced offices
+**	buildings with sustainability features and recognized certifications, such
+as LEED and BREEAM or equivalent
+***	The purchased SAF aimed to reduce travel emissions by 145 tCO2e versus
+conventional aviation fuel. The greenhouse gas figures in this report do
+not include the impact of SAF emissions reductions.
+
+Our 2030 Science Based Target
+The Science Based Targets initiative (SBTi)
+is widely regarded as a ‘gold standard’ for
+corporate emissions-reduction commitments.
+With a science-led approach and stringent
+set of criteria for emissions reductions
+informed by the Paris Agreement goals, the
+SBTi remains a key player in the corporate
+sustainability ecosystem. IFS will be closely
+tracking the ongoing revision of the Corporate
+Net Standard in 2025 to ensure we factor in
+any significant changes into our business and
+sustainability strategy.
+
+Our SBTi Commitment
+IFS commits to reduce absolute scope 1 and
+2 GHG emissions 42% by 2030 from a 2022
+base year.*
+I FS also commits to reduce absolute scope
+3 GHG emissions from purchased goods
+and services, business travel, and employee
+commuting 25% within the same timeframe.
+*	2022 was selected as our baseline year as the first year in which
+IFS conducted a complete carbon footprint with data of sufficiently
+high quality.
+
+At IFS, we have held a validated Science
+Based Target since 2023. This is aligned to the
+Paris Agreement goals and requires significant
+absolute emissions reductions by 2030. This
+target spans across both direct operations
+(Scope 1 and 2 emissions) and our broader
+value chain (Scope 3 emissions) and ensures
+we hold ourselves accountable and are
+playing our part in the global effort to address
+climate change.
+
+At IFS, we are committed to
+reducing our environmental
+impact whilst continuing to
+achieve world-class business
+performance.
+
+19
+
+Introduction
+
+Our approach
+
+Environmental impact
+continued
+Our Climate Strategy
+Greenhouse gas (GHG) emissions generated
+from our business activities and value chain
+partners contribute to harmful climate effects
+and are a key area of focus within our broader
+sustainability strategy. We are actively engaged
+in climate change mitigation activities which we
+deliver through:
+Our Decarbonization Strategy – to drive
+science-aligned emissions reductions in our own
+operations and value chain. We plan, design,
+implement, and track decarbonization initiatives
+on an annual basis to measure our progress
+against our Science Based Target.
+
+Beyond-Value-Chain Mitigation Strategy –
+to contribute towards the necessary scaling of
+global carbon removal markets to meet planetary
+net zero goals as per the Paris Agreement.
+Greenhouse Gas Inventory and Calculation
+Methodology
+We report our corporate GHG inventory annually
+in alignment with the GHG Protocol standards.
+In 2024, we migrated to our proprietary emissions
+management software, IFS Cloud Emissions
+Management, to improve data governance
+and accuracy of emissions results.
+
+Our Decarbonization Strategy
+Decarbonization across our value chain focuses on
+the following three areas of Reduce, Replace and Engage.
+
+Reduce
+emissions across
+our operations
+
+Replace
+energy used with
+greener alternatives
+
+Engage
+with customers
+and suppliers to
+reduce value chain
+emissions
+
+Transitioning to certified sustainable facilities while phasing out less sustainable ones
+Promoting hybrid working and reducing unnecessary business travel emissions
+ Collaborating with our Sustainability Business Partner network to identify and implement levers
+to minimize energy consumption and emissions e.g. reducing IT waste, installing EV chargers in
+offices, formalizing office energy efficiency guidance
+ 
+ 
+
+Purchasing 100% renewable electricity for global offices through annual procurement process
+Increase the percentage of offices utilizing locally procured green energy contracts or energy
+attribute certificates (EACs)
+ Prioritize transitioning to energy-efficient facilities, including renewably powered buildings and
+electric fleet vehicles, replacing traditional fuel-powered options
+ Purchasing SAF to reduce the emissions associated with flights versus conventional fuels
+ 
+ 
+
+Providing customers with solutions to help manage and reduce carbon emissions
+Implementing and strengthening supplier sustainability policies
+ Engaging with IT end-of-life providers to reduce environmental impact of waste from
+IT operations and improve circularity
+ Provide employees with carbon emissions data via our travel booking tool to enable users
+to make more informed, sustainable business travel decisions
+ Collaborating with cloud hosting partner to optimize resources and data centres for
+emissions reduction
+ E xpanding green software practices including upskilling engineers, evaluating software and
+adopting sustainable development principles
+ 
+ 
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+20
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Environmental impact
+continued
+2024 Carbon Performance
+Our overall footprint increased in 2024 by 19%
+with respect to 2023, with the majority of the
+change coming from Scope 3. A major driver
+of the increases were several changes to our
+methodology, including reporting on additional
+emissions sources and utilizing more up-todate emissions factors. These changes due to
+methodology will be factored out when we recalculate our baseline year data, an exercise
+we plan to complete in 2025.
+Our Scope 1 and 2 emissions remained broadly
+flat with respect to the emissions sources
+that were reported in 2023, with both Mobile
+Combustion and Fugitive Emissions reported for
+the first time this year due to availability of new
+information.
+Within Scope 3, Purchased Goods & Services
+(PGS) and Business Travel (BT) accounted for
+the majority of the increase. PGS changes are
+attributable to improvements in data accuracy
+rather than changes to real-world emissions
+whereas the changes in BT are a combination
+of increased travel activity and more accurate
+emissions factors.
+Key Changes in 2024
+Every year we seek ways to improve the
+accuracy and completeness of our GHG
+data in line with GHG Protocol and SBTi
+recommendations. In 2024 we expanded and
+improved quality of our data through improved
+data collection and calculation tools via IFS
+Cloud Emissions Management.
+Data collection improvements – we decreased
+the share of estimated emissions data
+Integration of acquisitions – all acquisitions
+that were completed in 2024 were factored
+into our reporting
+ ethodology improvements – we migrated
+M
+to IFS Cloud Emissions Management and
+used its granular emissions factor selection to
+increase precision and accuracy of our carbon
+calculations
+
+Emission Factor Selection
+
+Renewable Electricity*
+As part of IFS’ continued commitment to
+source 100% renewable energy across
+our operations, we once again matched
+100% of our non-renewable grid electricity
+volumes in 2024, with regional renewable
+electricity certificates for our global
+offices. IFS manages energy consumption
+through global Facilities and looks to
+minimize this wherever possible.
+
+2021
+
+2023
+
+2022
+
+2024
+
+Covered by renewable electricity
+Not covered (37%)
+*Renewable electricity (RE) is generated from renewable resources,
+which are naturally replenished on a human timescale, such
+as sunlight, wind, rain, tides, waves, and geothermal heat. IFS
+purchases Energy Attribute Certificates (EACs) to cover its grid
+electricity consumption across global facilities that are under its
+operational control. 1 EAC represents 1 MWh of verified 100% RE
+generated by a provider. Green tariffs refer to contracts for 100%
+RE that usually consist of bundled EACs. Purchasing EACs therefore
+enables IFS to decarbonize its electricity supply. For more details,
+please refer to our "KPI Definitions" section of Annex, page 44.
+
+Green Facilities Strategy
+At IFS, the process for selection of new premises
+includes sustainability and energy performance
+criteria. Key factors considered include EPC
+ratings, as well as other globally recognized
+building certifications like LEED and BREEAM.
+
+IFS partnered with market-leading emissions
+factor (EF) provider, Climatiq, to obtain the latest
+and most accurate EFs via an integration with
+IFS Cloud Emissions Management for Scope 1
+and 2 emissions (see 'Our customers' section
+for more information). EFs were selected on the
+basis of specificity to the activity in question
+(e.g. generation of grid electricity), geographical
+location (e.g. Paris, France v.s. European
+average), and recency (as close to the reporting
+year as possible).
+For Scope 3, a combination of activity and
+spend-based calculations were used with the
+support of Schneider Electric. Within Scope 3 US
+EPA EEIO v1.3 was primarily used for spend-based
+calculations, with DEFRA 2024 used for activitybased calculations.
+
+Our Carbon Footprint
+Emissions Category
+
+In 2024, we launched our "#GreenBuildings,
+Brighter Future" campaign to highlight our
+sustainability focus and initiatives, in alignment
+with our overall sustainability strategy. As
+part of the campaign, IFS’ Facilities team
+shared multiple updates and infographics
+with employees, showcasing the eco-friendly
+features and initiatives of our green offices.
+This initiative provided our colleagues with
+valuable insights into how we are incorporating
+advanced technologies and sustainable
+practices to reduce our environmental impact.
+
+Emissions Sources
+
+2022
+tCO2e**
+
+2023
+tCO2e
+
+2024
+tCO2e
+
+Scope 1
+
+279
+
+354
+
+662
+
+Scope 2
+(Market-based)
+
+1,681
+
+93
+
+47
+
+Scope 2
+(Location – based)
+
+2,355
+
+2,334
+
+2,204
+
+Scope 3
+
+22,630
+
+27,052
+
+32,153
+
+Total Scope 1-3
+(Scope 2 Market-based)*
+
+24,591
+
+27,518
+
+32,862
+
+Total Scope 1-3
+(Scope 2 Locationbased)*
+
+25,265
+
+29,759
+
+35,018
+
+* 	Subtotals may not 100% match due to rounding, for more details, please
+refer to our “GHG Inventory Breakdown” section of Annex, page 46.
+** tCO2e is defined as metric tonnes of carbon dioxide equivalent.
+
+Carbon Emissions
+Reporting
+Standards*
+
+Sources
+
+Scope 1
+Direct emissions
+
+Scope 2
+Indirect emissions
+from purchased
+energy
+Scope 3
+Upstream
+Indirect value
+chain emissions
+
+ tationary combustion of fuel – 		
+S
+natural gas from heating
+ obile combustion –
+M
+petrol and diesel from vehicles
+ ugitive emissions – HFCs from
+F
+HVAC (Heating, Ventilation, and Air
+Conditioning)
+
+	Purchased Electricity –
+From office sites
+l	District Cooling – From office sites
+l	District Heating – From office sites
+l
+
+ urchased Goods and Services
+P
+ apital Goods
+C
+ uel – Energy Related Activities
+F
+ aste Generated in Operations
+W
+ usiness travel
+B
+ mployee Commuting
+E
+I nvestments
+
+*	For more details, please refer to our “GHG Inventory Breakdown” section of
+Annex, page 46.
+
+21
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Environmental impact
+continued
+Key Updates
+
+Zero waste to
+landfill in UK
+head office
+The Staines office in the
+UK continues to be zero to
+landfill with 46.7% waste
+being recycled and 53.3%
+Energy from Waste (EFW)
+Annual Eco-Savings
+
+Sites with Green
+Energy Contracts*
+
+Staines
+
+100%
+Renewable Energy
+
+46.7%
+Recyclables
+
+Linkoping
+
+100%
+Renewable Energy
+Melbourne
+
+6021
+
+Power Generated (kWh)
+
+100%
+Renewable Energy
+Turku
+
+100%
+Renewable Energy
+
+*	These offices procure 100% renewable
+electricity through bundled energy
+attribute certificates (EACs). Our other sites
+are covered by unbundled EACs purchased
+by IFS annually.
+
+New leases under
+our Green Facilities
+Strategy
+
+France
+
+Paris
+
+Further office
+footprint reduction
+Real estate footprint was
+reduced by a further 4%
+globally. The total square
+foot reduction during 2024
+was 24,230 sq. ft.
+
+UAE
+
+3
+
+Japan
+
+2
+
+Dubai
+Tokyo
+
+locations were downsized
+
+locations were upsized (Dubai and Paris)
+
+1
+
+new location added (Tokyo)
+
+CASE STUDY
+
+Tokyo Office Ranked
+Highest for Built
+Environment Efficiency
+This year, we have continued to implement sustainability
+into our property portfolio management strategy,
+migrating to three new, highly sustainable offices globally
+from older premises. In November 2024, we opened our
+brand-new Japan office, located in Tokyo’s Otemachi
+One Tower. This new workspace is a compelling advocate
+for our Green Buildings campaign. Here are some of the
+reasons why:
+ he building has been awarded an S rank, the highest
+T
+rating in Japan’s CASBEE (Comprehensive Assessment
+System for Built Environment Efficiency) assessment,
+a prestigious green building certification program.
+ he building incorporates several environmental features
+T
+to enhance sustainability, including air conditioning
+impact reduction through low-emissivity double glazing
+and a cogeneration system that produces power and
+heat from gas, with waste heat utilized in district heating
+and cooling systems.
+ robust waste management system is in place, adhering
+A
+to stringent local guidelines.
+ he Otemachi One Tower has achieved level 3 grading
+T
+in both PAL and ERR assessments, benchmarks used in
+Japan to evaluate a building’s energy efficiency and
+thermal impact reduction.
+
+22
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Environmental impact
+continued
+Software Carbon Footprint
+When it comes to cloud software, environmental
+costs as externalities can be hidden. With the
+rise of AI and compute-intensive software,
+increased use of energy and water is becoming
+a top priority for technology companies
+globally. At IFS, we have a responsibility to
+consider these externalities across the product
+lifecycle. This means from the design stage,
+where we have the most control over how our
+software will run efficiently, through to the use
+stage, IFS , where we collaborate with our cloud
+partners on the energy and water consumption
+in data centers hosting IFS.
+Our focus is on minimizing the carbon footprint
+of AI systems, adopting green coding practices
+and promoting sustainable solutions for the
+industries we serve. We seek to align with the
+principles of the Green Software Foundation as
+regards carbon efficiency in development of
+software, energy efficiency in its operation, and
+carbon awareness. IFS design our solutions to
+run efficiently, with increasing components of
+our software on ‘next generation’ architecture
+that scales to near zero when not in use. In 2025,
+we will pilot training on green software to our
+engineers so these principles are considered
+in the design and development stage. We will
+also benchmark our software to understand its
+comparative carbon footprint.
+On data centres, we work closely with our
+cloud partner Microsoft Azure to assess the
+environmental impact of their data centres.
+The majority are powered by renewable
+electricity and there are initiatives in place such
+as innovative liquid immersion cooling methods
+to reduce water and energy consumption for
+AI chips. Having a central cloud hosting gives
+us visibility on total emissions associated with
+IFS Cloud, as well as the ability to provide
+customers with their emissions from software
+use, and approximate reduction compared to
+on premise applications.
+
+Sustainable Procurement
+We recognize our supply chain as a vital part of
+our overall environmental footprint and continue
+to promote sustainable practices in our supply
+chain through specific sustainability criteria
+in our standard supplier terms and conditions.
+We also seek to continuously optimize
+procurement of goods and services through
+cost management initiatives that also provide
+sustainability benefits.
+Strategy and 2024 progress
+See dedicated section for more information
+on page 27.
+
+Beyond-Value-Chain Mitigation
+We recognize the vital role that the private
+sector needs to play in scaling vital markets and
+technologies outside its immediate value chain
+to achieve planetary net zero. With the negative
+impacts of climate change continuing to grow,
+the world is looking to businesses to accelerate
+the pace of change. At IFS, alongside
+decarbonization initiatives targeted at our own
+operations and value chain, we actively invest in
+carbon projects to support the scaling of global
+carbon removals markets.
+
+Carbon Credit Strategy
+IFS’ carbon investment strategy is designed
+to deliver positive impact for the planet by
+supporting the scaling of the carbon removals
+market whilst providing benefits for our
+business. Through our partnership with Patch,
+we have invested in a diverse portfolio of carbon
+projects* to deliver the following benefits:
+ arbon removal impact – through our offtake
+C
+agreement, capital is secured for project
+development and scaling of vital carbon
+removal technologies
+ rand & customer industry alignment – IFS
+B
+are proud to invest in projects that deliver
+positive social impact, protect and regenerate
+biodiversity, and align to customer industries
+such as construction (see CarbonCure
+spotlight)
+ mployee engagement – we are continuously
+E
+seeking ways to raise awareness and engage
+our employees on sustainability topics, our
+carbon portfolio provides a way for us to do
+this across the globe and we are seeking to
+enhance our focus on this element in 2025
+All of our projects meet the following five criteria
+for quality and are certified by an International
+Carbon Reduction and Offset Alliance (ICROA)
+endorsed organization.
+
+What are the criteria for high quality carbon credits?
+Negativity
+The projects
+result in a
+net negative
+reduction in
+atmospheric
+carbon dioxide
+
+Real and
+verifiable
+The project uses
+scientifically
+rigorous
+methods for
+monitoring and
+verification
+
+Additionality
+The impact
+would not have
+occured without
+this project
+
+Leakage
+Avoiding an
+unintended
+increase in
+emissions or
+shift of emissions
+from one place
+to another
+
+Permanence/
+Durability
+How long the
+carbon will be
+sequestered for
+
+CASE STUDY
+
+CarbonCure
+IFS supported CarbonCure's innovative
+solutions by investing in carbon credits via
+Patch in 2024 and 2023.
+CarbonCure Concrete Mineralization Project
+utilizes innovative technology which involves
+injecting captured CO₂ into concrete mix
+during production, creating strengthened
+concrete. This storage solution is permanent
+and contributes to an annual carbon removal
+of 400,00 tonnes.
+
+CarbonCure was recognized as Cleantech
+Group's North American Company of the Year
+in 2020, addressing sustainable development in
+UN SDG goals and creating green jobs for local
+communities.
+CarbonCure
+For more information, visit CarbonCure's
+Sustainable Concrete Solution - Concrete
+Technology Reducing Carbon Impact
+
+*	Whilst our offtake agreement began in 2023, our first year
+of retiring credits will be 2025. The volume of carbon credits
+cancelled in 2024 is therefore 0 tCO2e.
+
+23
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Our People
+As we continue to grow and evolve
+as an organization, we recognize
+that our success is built on the
+strength of our people.
+At IFS, we believe every person deserves to feel
+valued, respected, and empowered to thrive.
+Our commitment to fostering an inclusive, fair,
+and equitable workplace is not just a statement—
+it is the foundation of high-performing, diverse
+teams that drive innovation and success for our
+business globally. Our 2029 vision recognizes
+the importance of high-performing, diverse
+teams as a central contributor to achieving our
+ambition.
+This year, we facilitated several diversity
+projects, including ongoing annual initiatives,
+such as continued support for IFS Women
+Employee Resource Groups, as well as new
+global projects focused on minority groups.
+A compelling example is the "I Am Remarkable"
+program, which was successfully launched
+in 2024. It aims to empower individuals to
+celebrate their achievements. The series of
+workshops focus on improving self-promotion
+skills and building confidence in a supportive
+group setting. It is currently available for our
+teams in the UK and Sri Lanka; however, we plan
+to expand it globally in 2025.
+
+Celebrating Our Global Diversity
+At IFS, we use awareness days as opportunities
+to celebrate diversity, launch supporting
+initiatives, and educate our employees. In
+2024, IFS proudly celebrated several diversity
+awareness days, including International
+Women’s Day, Black History Month, LGBTQ+
+History Month, International Men’s Day, and
+others.
+We always strive to infuse creativity into our
+campaigns. As part of this effort, in 2024,
+our design team created custom lock screen
+designs to reflect and honor the unique values,
+aesthetics, and celebrations of different
+communities.
+
+Supporting the Growth
+of Female Leadership
+In 2024, we established Future Manager
+Development Program with high emphasis on
+female participation. The program aims to equip
+IFS employees who aspire to become people
+managers in their journey at IFS. The program
+involves a combination of mentoring, e-learning
+and structured group discussions that provide
+participants with knowledge and skills required
+to become effective people managers.
+
+2024 Gender Diversity
+The technology industry continues to be
+predominantly male-dominated, and IFS
+is actively working to change this. We are
+committed to helping women establish and
+grow their careers in technology by offering
+additional opportunities for success and
+advancement. In 2024, IFS has increased the
+number of female managers to 33.02% of the
+business (2023: 31.91%).
+
+Female
+
+Male
+
+Gender
+
+37%
+
+63%
+
+0.04%
+
+Employees
+
+33%
+
+Employees
+
+of all employees
+are non-binary
+or undisclosed
+
+Managers
+
+Managers
+
+67%
+
+0%
+
+40%
+
+60%
+
+0%
+
+Board members
+
+Board members
+
+*	This refers only to IFS' Board of Directors,
+excluding shareholder representatives.
+
+of all managers
+are non-binary
+or undisclosed
+
+0 % of all C-suite
+members are
+non-binary or
+undisclosed
+
+Discussing Gender Bias
+in the Tech Industry as
+Part of IFS Unleashed
+IFS uses a variety of channels to
+promote diversity, and inclusion within
+the workplace. In 2024, as part of IFS
+Unleashed, our CIO Helena Nimmo (above)
+hosted a thought-provoking discussion with
+speakers from IFS, BakerTilly, and PwC.
+The conversation explored the challenges
+and opportunities of addressing gender
+bias in AI.
+The session was filled with insightful
+examples, real-life stories, and practical
+advices on navigating the evolving
+landscape of AI and diversity within the
+IT sector.
+
+24
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Our People
+continued
+Employee engagement
+Engaging and retaining a motivated workforce
+is a key priority for us, which involves actively
+seeking, listening to, and responding to
+employee feedback. As we continue to grow,
+our global employee engagement survey
+provides an important opportunity for
+employees to share candid feedback about
+their experience at IFS. The ideas and
+suggestions from our employees play a vital
+role in helping us refine our work practices and
+culture, ultimately shaping the future of IFS.
+To track progress, IFS conducts the Heartbeat
+survey two times a year, which is sent to
+all employees. This concise, regular survey
+allows us to consistently measure employee
+engagement and adjust questions to focus on
+specific themes, while also maintaining a core
+set of questions.
+In 2024, we maintained best-in-class
+participation rates for our survey, achieving
+a global participation rate of 93% with a total
+of 18,300 comments. We believe that the high
+participation rates and the volume of comments
+reflect an actively engaged workforce, eager
+to provide feedback and collaborate on future
+improvements.
+
+Heartbeat summary
+IFS Global – October 2024 Pulse Survey,
+excluding Copperleaf IFS
+
+Employee Wellbeing
+IFS is committed to ensuring that mental and
+physical wellbeing support is accessible to all
+employees across the business. As part of this
+effort, we continually raise awareness about the
+importance of wellbeing and develop inclusive
+and accessible training modules to promote
+healthy practices.
+In 2024, we launched several initiatives to
+enhance workplace wellbeing. Employee
+wellbeing was a central theme of this year’s
+IFS Link sessions, featuring workshops and
+e-learning opportunities designed to support
+both personal and professional development.
+
+Participation
+
+eNPS
+
+% flat vs May
+survey (-1% vs
+Prior Year)
+
++3 since vs May
+survey (-1 vs
+Prior Year)
+
+Engagement score
+
+Comments
+
++0.1 vs May survey
+(-0.1 vs Prior Year)
+
++0.1 vs May survey
+(-0.1 vs Prior Year)
+
+93%
+
++46
+
+8.3
+
+18300
+
+To further support employees, we have a
+dedicated Workplace group page where we
+regularly share information on health and
+wellbeing. Additionally, we continue to promote
+our Employee Assistance Program (EAP)
+services, ensuring that employees have access
+to confidential support whenever they need it.
+
+Copperleaf’s Women
+in Tech Group
+Copperleaf’s Women in Tech group
+is a vibrant community dedicated to
+empowering women in the technology
+field. This group provides a platform for
+the women of Copperleaf to connect,
+share experiences, and advocate for
+gender equality in the industry. It raises
+awareness about the challenges women
+face in tech and offers mentorship
+programs and professional development
+opportunities to support their growth.
+
+Being a woman in a
+male-dominated field
+can feel isolating. In 2017,
+I created the Women In
+Tech group as a safe space
+for women to support
+one another, and connect
+with both male and female
+champions of gender
+equality and inclusion
+in tech.”
+Kirsten Harrold
+Director of Client Solutions,
+Extensions and Delivery, Copperleaf
+
+13 27
+(-2) (-1)
+
+Unhappy
+
+60
+(+3)
+Passives
+
+Promoters
+
+25
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Our People
+continued
+Neurodiversity Employee
+Resource Group
+Another example of our strong commitment
+to employee wellbeing is the establishment of
+a Neurodiversity Employee Resource Group
+(ERG) dedicated to supporting our global IFS
+community.
+
+Improving Physical Health
+Through a Walk and Mental
+Health Through a Chat
+
+Neurodiversity is the concept that people
+experience and interact with the world in
+many ways, and there’s no single “right” way
+of thinking, learning, or behaving. It recognizes
+brain differences, such as those seen in ADHD,
+autism, dyslexia, and other conditions, are
+natural variations in the human population,
+much like diversity in race or gender.
+The main mission of our Neurodiversity ERG
+is to foster an inclusive environment where
+neurodivergent individuals feel valued,
+understood, and empowered to reach their
+full potential.
+
+Another example of our strong
+commitment to employee
+wellbeing is the establishment
+of a Neurodiversity Employee
+Resource Group (ERG)
+dedicated to supporting
+our global IFS community.
+
+This year, we celebrate the fourth
+consecutive year of our Global Get Fit
+Challenge. This initiative encourages
+employees to set personal fitness
+challenges over the course of a week,
+while also providing a fundraising
+opportunity for the IFS Foundation
+through participant sponsorship.
+
+CASE STUDY
+
+IFS Poka Celebrates
+Pride in Montreal
+As a global company, IFS employees have
+numerous opportunities to show their support
+for various causes worldwide. For instance, in
+May 2024, IFS Poka celebrated the LGBTQ+
+community by participating in the annual
+Montreal Pride Parade, highlighting their
+commitment to Diversity and Inclusion.
+
+In 2024, as part of this initiative, we
+organized several office walks across
+our global IFS offices, with the goal of
+“improving physical health through a
+walk and mental health through a chat.”
+The initiative not only demonstrated a
+high participation rate but also positive
+feedback afterwards.
+
+26
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Human Rights
+& Anti-Corruption
+At IFS, safeguarding fundamental
+rights related to dignity, fairness,
+respect, and equality is a core
+commitment.
+We are dedicated to upholding the human rights
+of our employees, ensuring they are treated
+with dignity and respect in accordance with
+international standards. All employees and
+business partners are expected to adhere to the
+principles outlined in the Universal Declaration
+of Human Rights. As part of our commitment,
+we follow the UN Guiding Principles on Business
+and Human Rights and have signed the UN
+Global Compact.
+IFS is committed to respecting human rights,
+including adherence to the International Labor
+Organization's Core Conventions governing
+labor conditions. We work closely with our
+partners to ensure these rights are consistently
+respected, prohibiting any involvement in forced
+labor, child labor, or discriminatory employment
+practices. We avoid any transactions that
+present a risk of human rights violations,
+assessing and managing such risks in line with
+the UN's framework for business and human
+rights.
+
+New Addition to IFS’ Global Policies
+In 2024, as part of our commitment to
+safeguarding human rights, we introduced
+a global IFS Anti-Bullying, Harassment,
+and Sexual Harassment Policy. This
+policy reinforces our dedication to
+maintaining a workplace free from all
+forms of harassment and ensuring that all
+employees are treated with dignity and
+respect.
+
+Anti-Corruption
+At IFS, we maintain a zero-tolerance policy
+towards corruption. We are fully committed to
+complying with all applicable anti-corruption
+laws and regulations. Our compliance program
+is guided by recommendations from industry
+and regulatory bodies, as well as legally binding
+standards established by the OECD Anti-Bribery
+Convention.
+All employees are required to complete
+mandatory training on anti-bribery and
+corruption. Employees in higher-risk roles
+receive regular training as part of a structured
+training plan. Additionally, as part of the
+onboarding process, new employees must
+complete training on anti-corruption, fraud,
+and money laundering.
+
+Whistleblowing
+Our whistleblowing platform allows employees
+and business partners to raise concerns
+anonymously about actual or suspected
+serious misconduct in the Group. The system is
+hosted by an external, independent third party,
+providing whistleblowers the ability to track the
+status of their cases.
+The whistleblowing process is managed by
+a cross-functional team of senior staff. IFS
+enforces a zero-tolerance policy for retaliation
+against anyone who reports wrongdoing in
+good faith.
+
+931
+4612
+5391
+188
+0
+
+1000
+
+2000
+
+3000
+
+4000
+
+5000
+
+6000
+
+Number of participants
+Foreign Corrupt Practices Act (FCPA)
+	
+Business Ethics: Sustaining a Responsible
+Organization
+IFS Code of Conduct
+	
+Manager Core Competentices:
+Managing Ethics and Compliance at Work
+
+
+*These four training courses include anti-bribery
+and corruption as part of their agenda.
+
+Compliance Trainings
+Our commitment to high-quality training and
+education for all employees is demonstrated
+through our partnership with a digital learning
+platform. This collaboration allows us to offer
+courses that cater to employees at various
+levels and across all divisions. As part of our
+focus on continuous improvement, employees
+are required to retake courses periodically,
+especially when content is updated, ensuring
+their knowledge stays current.
+Mandatory training ensures that every IFS
+employee has the necessary knowledge
+and skills to perform their duties in the safest
+possible way, minimizing risks to themselves
+and others. In 2024, we have updated our
+compulsory training curriculum to ensure
+the agenda remains fresh and as relevant
+as possible.
+
+As part of our commitment
+to maintaining a safe, ethical,
+and legally compliant workplace,
+I would like to emphasize the
+importance of compliance
+training. Compliance training
+isn’t just a checkbox exercise it’s about legal responsibility.
+By understanding and adhering
+to regulations,we protect both
+ourselves and IFS.”
+Matthias Heiden
+CFO
+
+27
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Sustainable
+Procurement
+At IFS, Sustainable Procurement is at the heart
+of our operations, and we are committed to
+embedding sustainability at every stage of the
+procurement process.
+Our goal is to ensure that our sourcing practices
+foster long-term resilience, uphold human rights,
+reduce environmental impact, and drive positive
+change in our supplier network.
+
+Our Progress So Far
+In our ongoing commitment to sustainable
+procurement, 2024 has been a year focused
+on consolidating and enhancing our existing
+initiatives. We continue to build on the
+momentum from previous efforts, strengthening
+an ethical and resilient supply chain to ensure
+a lasting, measurable impact.
+Internal Policies and Procedures
+We continue to roll out the IFS Global
+Procurement Policy across our operations,
+ensuring that key sustainability principles are
+integrated into our supplier due diligence and
+management processes.
+Supplier Engagement and Accountability
+We are further embedding the Supplier
+Code of Conduct to uphold environmental,
+social, and governance standards. This is
+reinforced through the integration of social and
+environmental clauses into supplier contracts,
+and we have also taken steps to promote
+diversity and inclusion within the workforce of
+our suppliers.
+Sustainability Training
+At IFS, we understand the importance of
+capacity building. In 2024, we have engaged
+with our supplier network by offering training
+and corrective action plans. We have also
+upheld last year’s achievement by ensuring that
+100% of our procurement team participates in
+sustainability training.
+
+The road ahead
+Key focus areas for 2025
+Moving forward, we will enhance our
+dedication to sustainable practices in supplier
+selection and due diligence, placing a strong
+emphasis on incorporating sustainability
+considerations into these processes. In 2025,
+our commitment will also encompass meeting
+regulatory requirements, including rolling out
+a Supplier Assurance Program and introducing
+a strategy for late payments.
+
+Top 2025 Focus Areas
+
+28
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+IFS
+Cybersecurity
+& Privacy
+Given the ever-evolving nature
+of cyber threats, IFS employs an
+adaptive and proactive strategy.
+The IFS Cybersecurity program incorporates
+strong technological safeguards, proactive
+threat detection and response systems, and
+fosters a culture of cyber awareness among our
+employees. This multi-layered approach ensures
+we stay ahead of the curve.
+Built to Adapt
+At the heart of our efforts is the IFS Internal
+Information Security Management System
+(ISMS). Designed in accordance with globally
+recognized security frameworks such as ISO
+27001, SSAE18/ISAE3402, SOC 1 & 2, and the
+National Institute of Standards and Technology
+(NIST), this system is in constant review and
+evolves in tandem to industry best practices
+and emerging threats.
+As a result, IFS has been able to maintain an
+impeccable record with no major security
+incidents nor data breaches for 6th year in
+a row. This milestone is a testament to our
+commitment to protecting the data and privacy
+of our stakeholders in an increasingly complex
+digital landscape.
+
+No major security incidents
+nor data breaches for 6th
+year in a row.
+
+Key 2024 updates
+IFS continues to strengthen our cybersecurity posture,
+and this year has driven multiple key initiatives:
+
+Unified Security
+through acquisition
+alignment
+This year, we made further
+progress in aligning our
+new acquisitions with
+IFS’ established security
+management policies,
+standards, and processes.
+This approach creates
+a unified strategy that
+reduces risks and ensures
+consistent safeguards
+throughout our continually
+expanding ecosystem.
+
+Cyber security
+management and
+system improvement
+
+Proactive threat
+detection and
+response
+
+IFS has enhanced its
+security monitoring
+and detection tools,
+incorporating additional
+automated detection and
+protection capabilities.
+Moreover, we have
+continued to invest in
+testing IFS’ security
+defences, applying greater
+breadth and depth of
+scrutiny. To support these
+advancements, we have
+expanded our security
+team, in line with the
+growing business and
+evolving security threats.
+
+Given the increasing
+complexity of cyberattacks, we have upgraded
+our IFS phishing simulation
+tools to deliver more
+targeted and sophisticated
+tests, tailored to an
+increasingly aware user
+base and an evolving
+threat landscape (including
+AI-based attacks, deep
+fakes, etc.). Additionally,
+we continue to test and
+refine our IFS Cyber
+Incident Response Plan and
+processes through regular
+simulation exercises,
+including at the Board level.
+
+Certification and
+regulatory compliance
+Staying ahead of the
+regulatory curve continues
+to be a key priority at IFS.
+In 2024, we broadened
+our cyber certification
+roadmap to encompass
+acquired products, while
+maintaining our existing
+certifications. Additionally,
+we enhanced our tracking
+and alignment with new
+and evolving regulations,
+including the EU AI Act,
+NIS2, and DORA.
+
+AI and emerging
+technology
+governance
+As we embrace
+transformative
+technologies, such as
+Artificial Intelligence/
+Machine Learning, Data
+Lakes, and others, we
+have established secure
+governance frameworks
+and development
+guardrails to ensure their
+ethical and secure use.
+
+29
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Tax Strategy
+In line with IFS’ Sustainability
+strategy, IFS aims to make a
+positive contribution across society
+and is committed to paying its
+taxes and supporting communities.
+We are committed to complying with all tax laws
+and regulations in the territories in which we
+operate including the UK, while also maintaining
+open and constructive relationships with tax
+authorities.
+The publication of this IFS Tax Strategy complies
+with the duty specified in paragraph 16 (2) of
+Schedule 19 (Publication of Tax Strategies) in
+Finance Act 2016. This strategy applies to the
+overall IFS Group, which includes the application
+of UK legislation to the operations of IFS and
+our relationship with Her Majesty’s Revenue and
+Customs (HMRC). It is published on behalf of all
+our UK companies and UK branches which are
+direct or indirect subsidiaries of IGT Holdings 1
+AB for the year ended 31 December 2024.
+
+We are committed to
+complying with all tax
+laws and regulations in
+the territories in which we
+operate including the UK,
+while also maintaining
+open and constructive
+relationships with tax
+authorities.
+
+The IFS Group is committed to:
+
+Tax Risk Management
+
+Tax Governance
+
+ ollowing all applicable laws and regulations
+F
+relating to its tax activities.
+ aintaining an open and honest relationship
+M
+with the tax authorities based on collaboration
+and integrity.
+	
+Ensuring that the tax strategy adopted is
+consistent with the Group’s overall strategy.
+ pplying diligence and care in our
+A
+management of tax risks and ensuring that our
+tax governance is appropriate.
+ sing incentives and reliefs to minimize the tax
+U
+cost of conducting our business while ensuring
+that these reliefs are not used for purposes
+which are knowingly contradictory to the intent
+of the legislation.
+	
+Where we have choices in how we structure our
+commercial activities, structuring these with
+a view to maximising value on a sustainable
+basis for our shareholders, considering both
+the letter and the spirit of the tax laws of
+the countries within which we operate and
+the OECD domestic base erosion and profit
+shifting initiative including Pillar 2.
+	Our approach to tax planning is to align any
+choices with commercial and economic
+substance and regard to the potential impact
+on our reputation and broader goals. We
+will not undertake planning that is contrived,
+artificial or knowingly contradictory to the
+intent of the legislation.
+
+IFS Group actively seeks to identify, evaluate,
+monitor, and manage tax risks. We are
+committed to correctly applying the tax
+legislation to our business operations having our
+communities in mind, and we intend to conduct
+our tax affairs to the highest standards and to
+comply with all applicable anti-bribery, money
+laundering and anti-tax evasion legislation.
+Internal controls and escalation procedures
+are put in place with the aim of identifying,
+quantifying, and managing key tax risks.
+
+IFS’ Chief Financial Officer (CFO) has executive
+responsibility for tax matters, while the
+ultimate responsibility for tax strategy, its
+approval, and compliance rests with the Group
+Board. They work towards ensuring that the
+appropriate framework is in place to oversee
+the identification and management of tax
+risk. Day-to-day management of tax affairs
+is delegated to the Global Head of Treasury
+and Tax for corporate income tax, indirect
+taxes and withholding tax, and to the Chief
+Human Resources Officer for employment
+taxes. They are supported by local finance
+and payroll teams who work on an integrated
+basis to identify and manage tax risks utilizing
+their combined knowledge of operations
+and law. The Group CFO, together with the
+Global Head of Treasury and Tax and, where
+relevant, the Chief Human Resources Officer,
+conduct regular assessments on significant tax
+developments and participate in all material
+tax-related decisions.
+
+The Group Audit & Risk Committee oversees
+IFS’ tax control environment through the regular
+review of the tax strategy.
+Appropriate training is carried out for staff who
+manage or process tax matters. We recognize
+that tax legislation can be complex and
+sometimes subject to interpretation and this
+uncertainty could give rise to tax risk. Where
+there is uncertainty in how the relevant tax law
+should be applied, external advice is sought to
+support the Group’s decision-making process.
+Where tax positions are subject to significant
+unresolved uncertainty, filing positions should
+be subject to robust risk assessment and
+supported by full disclosure. We may also look
+to engage with global tax authorities (“Tax
+Authorities”) to disclose and resolve issues, risks,
+and uncertain tax positions.
+We ensure documentation is collected and
+retained for at least the minimum statute of
+limitations period and if under audit, a time
+period needed to satisfy such activities.
+
+30
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Our
+Customers
+Strategic Focus for IFS Cloud
+Product Direction
+
+31
+33
+
+Broader impact
+
+Annex
+
+Our vision for Sustainability
+Embedded in IFS Cloud, is based
+on the fact that our customers
+are integrating sustainability
+into their business strategy –
+sustainability is not stand-alone.
+We focus on “data at the source”,
+where sustainability-related
+data is captured where it has a
+logical place within an existing
+process, helping companies act
+not just report.”
+Caitlin Keam
+VP Sustainability Applications at IFS
+
+Photograph Getty Images
+
+31
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Supporting
+Our Customers
+IFS strives to enable a more sustainable
+future, both through our own actions and by
+supporting our customers. In 2024, we made
+further progress with a focus on embedding
+sustainability across our product offerings.
+This is achieved in three ways:
+1. Developing new products that address
+growing disclosure requirements
+2. Integrating sustainability into existing
+products, and
+3. Enhancing and promoting products
+that already support customers in their
+sustainability initiatives.
+
+Strategic Focus for IFS Cloud
+With IFS Cloud, our unique positioning enables
+us to effectively navigate the sustainability
+landscape. Our open architecture and
+comprehensive portfolio of solutions provide
+a solid foundation to help customers embed
+sustainability into their business strategies.
+We strongly believe that sustainability should
+never be treated as a standalone effort; it is
+only successful when embedded within an
+organization’s business strategy and day-today operations. This is why "Sustainability
+Embedded" is at the heart of our message.
+We specifically focus on data at the source,
+strategically positioning relevant environmental
+and social data where it logically fits in with our
+customers' business processes.
+
+Sustainability
+Management
+
+Emissions
+Management
+
+Product Direction
+Success in sustainability lies in its seamless
+integration into business strategy and
+operations. Our goal is to embed sustainability
+capability in the core of our IFS products. Over
+the past year, we have identified five key longterm investment areas that we prioritize, forming
+the foundation of our overall product strategy
+for sustainability.
+
+Circular
+Operations
+
+Supply Chain
+Sustainability
+
+Performant
+and
+Sustainable
+Assets
+
+Sustainability management
+New solution in IFS Cloud, launched in 2024,
+to support customers with growing disclosure
+needs. This initially supports the Corporate
+Sustainability Reporting Directive (CSRD)
+in EU, covering environmental, social and
+governance disclosures, with ISSB (International
+Sustainability Standards Board) coming
+early 2025. This new module was developed
+in collaboration with PwC UK to ensure that
+disclosures are standardized and that the
+right controls and processes are in place for
+transparency and auditability.
+Emissions Management
+To enable Organizational Carbon Footprint
+calculation (Scope 1, 2), and to embed carbon
+calculations for relevant Scope 3 directly at the
+source in IFS Cloud. As an example, in 2024, we
+launched Emissions in Procurement for Scope
+3 purchased goods and services. Emissions
+related products and features are conducted
+in partnership with Climatiq for access to
+scientifically vetted emission factors and results.
+
+Circular Operations
+To support customers with the growing
+needs of producer responsibility, where repair,
+remanufacturing and refurbishment become
+more and more critical.
+Supply Chain Sustainability
+To enable supply chain environmental and
+social data collection and management, to
+inform reporting, and supplier development
+and engagement.
+Performant and Sustainable Assets
+To ensure the optimal balance of asset
+performance, maintenance costs, asset
+reliability, risk and emissions
+
+32
+
+Introduction
+
+Our approach
+
+STRATEGIC PARTNERSHIPS
+
+Collaborating
+with PwC UK for
+IFS’ New Module
+Sustainability is most effectively achieved
+through collaboration, with a strong emphasis
+on knowledge sharing.
+In 2024, IFS have collaborated with PwC UK
+to develop a CSRD KPI catalog as part of our
+new Sustainability Management Module. We
+provide value by combining PwC UK's expertise
+in ESG criteria and the ever-evolving regulatory
+landscape with IFS’ technical capabilities. We
+have also successfully mapped a subset of CSRD
+key performance indicators in 2024, including
+metrics like employee turnover rate, total full-time
+employees, and gender statistics.
+Looking forward, we will keep broadening the
+scope of our module, mapping additional KPIs and
+ensuring a supporting embedding sustainability
+into our customers’ business processes. Once
+completed, the solution will help IFS customers
+navigate the new requirements of the CSRD and
+other emerging mainstream global regulatory
+standards that our customers are facing.
+
+Accurate and comprehensive ESG
+data is essential for organizations
+to monitor progress, identify
+improvement opportunities, and
+comply with regulations. Reliable
+data also enables businesses to
+make informed decisions, be
+transparent with stakeholders,
+and build trust. Through our
+collaboration with IFS and their
+Sustainability Management Module
+in IFS Cloud, we leverage our PwC
+ESG expertise and regulatory
+knowledge to provide valuable
+guidance, insights and support.
+This enables organizations to
+effectively deliver their corporate
+sustainability objectives,
+and navigate the evolving
+regulatory landscape.”
+Iain Anderson
+ESG Technology
+& Data Leader, PwC UK
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+33
+
+IFS Sustainability Report 2024
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Product
+Direction
+Emissions Management
+
+Sustainability Management
+
+To continuously enhance our offerings and
+provide more sustainability-focused solutions
+to our customers, Emissions Tracker has evolved
+into Emissions Management in IFS Cloud
+launching early 2025. This evolution strengthens
+our embedded solutions, leveraging existing
+IFS Cloud functionality and allowing customers
+to reuse their asset hierarchy and integrate
+available activity data from IFS Cloud. Emissions
+Management will bring several benefits,
+including:
+Access to over 70,000+ Verified Emission
+Factors: Our partnership with Climatiq brings
+in one of the largest and up-to-date carbon
+impact databases, enabling businesses to gain
+carbon visibility and drive meaningful emission
+reductions.
+Out of the box pre-configured templates: Preconfigured emission templates will automate
+most of the configuration work required for
+emission calculation
+Seamless integration with Asset
+Management: Ability to reuse asset hierarchy
+and existing emission sources data from Asset
+Management for consistency
+
+Our vision is centered around providing
+our customers with seamless access to
+sustainability data within IFS Cloud. As part
+of this effort, we introduced a dedicated
+Sustainability Management Module. This assists
+companies in aligning with new regulation such
+as CSRD. IFS Cloud Sustainability Management
+Module makes it easier for businesses to
+efficiently manage and disclose sustainability
+data, boosting visibility of sustainability
+performance across the organization.
+
+In 2024, IFS has started utilizing this tool to
+monitor our own corporate emissions. This
+hands-on experience with our own product
+provides valuable insights into our customers'
+journey, allowing us to continuously make
+informed adjustments to the product.
+
+Sustainability
+Management
+Key Features
+Out-of-the-box
+KPI library aligned
+with CSRD
+Data mapped to IFS
+Cloud for sub-set of
+KPIs
+Quantitative and
+qualitative KPIs, with
+notes and source
+documentation
+Custom-defined
+KPIs
+Externally imported
+or manually updated
+KPI measurements
+Multi-entity
+Sustainability plans
+
+The Sustainability Management Module
+provides a centralized platform to create and
+manage tailored sustainability plans across
+single or multiple entities, integrating KPI
+tracking and automated data collection for
+selected KPIs, which reduces manual effort,
+prevents data silos, and ensures consistent
+progress monitoring, enabling organizations
+to meet their sustainability goals efficiently.
+The Sustainabiltiy Management Module is
+centered around a KPI Catalog, which includes
+all CSRD KPIs, where our customers can activate
+based on what is material to their industry,
+making it easy for companies to meet reporting
+requirements right from the start.
+We collaborated with PwC UK to develop
+this catalog. We have also automated a
+subset of these KPIs within IFS Cloud in 2024,
+including employee turnover rate, total full-time
+employees, and gender statistics.
+
+34
+
+Introduction
+
+Our approach
+
+Our business
+
+Product Direction
+continued
+
+Our customers
+
+Broader impact
+
+IDC MarketScape:
+Worldwide Remanufacturing
+Management Software, 2024
+Infor
+
+CASE STUDY
+
+As global gasoline prices rise and the climate
+emergency intensifies, customers must optimize
+their field workforce. IFS offers the industry’s
+leading scheduling optimization engine, helping
+reduce fuel costs, carbon emissions, and improve
+workforce efficiency. Over time, the solution's
+benefits are enhanced through machine learning
+capabilities. It also features a unique predictive
+planning tool, the 'What-If' Scenario Explorer
+(WISE), which allows customers to explore how
+their business could adapt to scenarios like
+transitioning to an electric fleet.
+Tangible benefits include:
+	
+Cost Reduction: Reduce travel and downtime
+by intelligently assigning the right technician,
+with the right skills and parts, to the right job at
+the right time.
+Boosted Efficiency: Achieve higher first-time
+fix rates and streamlined operations powered
+by real-time data and predictive street-level
+routing.
+Improved Sustainability: Minimize unnecessary
+travel and fuel use, helping you meet
+environmental goals without sacrificing
+performance.
+
+Western
+Computer
+
+We have different technologies,
+such as electric vehicles and
+hydrogen vehicles, but refueling
+and charging options are not
+readily available in some
+locations. The optimization
+provided by PSO and MWM
+allows us to use these clean
+technologies for our vehicle
+fleets without risking field
+technicians getting stranded or
+needing a tow. It enables us to
+utilize our workforce in the most
+effective way. That’s really the
+benefit we’re gaining from a
+stabilization standpoint—and
+overall, it’s because of PSO and
+MWM that we’ll be able to
+continue expanding our
+technologies.”
+Chris Stille
+Operational and Readiness Manager,
+SoCalGas
+
+Capabilities
+
+IFS Planning
+and Scheduling
+Optimization
+Boosting Customer
+Efficiency and
+Sustainability
+
+Annex
+
+CrescentOne
+Odoo
+
+Sage
+
+IFS
+
+Leaders
+
+TASReman
+
+Major Players
+
+Contenders
+
+Participants
+Strategies
+
+Circular Operations
+We have continued to strengthen our
+support for circular operations within IFS
+Cloud. A significant recognition of our progress
+is IFS being named as a leader in the latest
+remanufacturing IDC MarketScape.
+Through 2024, our capabilities in circular
+operations served as a central and
+differentiating factor for customers selecting
+IFS Cloud. This is a strong testament to how we
+can help our customers transform to a circular
+economy.
+Service management also plays a major role in
+circular operations. IFS enables the extension
+of customer-owned product lifespans through
+preventative maintenance and repair processes.
+With a full lifecycle view, IFS supports part
+refurbishment and environmentally responsible
+disposal and recycling practices.
+IDC highlighted IFS’ strengths in AI-powered
+Planning and Scheduling Optimization and our
+multi-focused field service offering that meets
+the needs of resource, customer, outcome,
+project, and asset-centric environments.
+
+Supply Chain Sustainability
+This year, we focused on enhancing our
+Procurement and Supply Chain functionalities
+to assist customers in addressing sustainability
+challenges, particularly by tackling Scope 3
+emissions.
+Through this initiative, we introduced new
+functionality to manage ‘Emissions in
+Procurement,’ enabling our customers to make
+significant progress toward sustainability
+by more effectively tracking their emissions.
+This aligns with our vision of Sustainability
+Embedded, allowing emissions insights to be
+accessed directly at the source in Procurement.
+This new feature empowers Procurement teams
+to track and store carbon emission data for
+purchased goods and services, leveraging
+a variety of sources in a robust and flexible
+platform. It supports both activity-based and
+spend-based emission calculation methods.
+Users can input emission data collected
+internally, directly from suppliers via B2B portals,
+or through scientifically validated external data
+sources.
+This emission data is used throughout the
+Procurement processes to make informed
+decisions at every step of the way. The benefit
+of these enhancements is not only enjoyed by
+Procurement organizations but also contribute
+to overall organizational emission management,
+emissions capture in manufacturing processes,
+and beyond.
+We are also prioritizing enhanced supply
+chain sustainability by expanding our supplier
+evaluation capabilities to include environmental
+and social supplier metrics.
+This empowers customers to make
+sustainability-driven decisions during their
+sourcing and supplier onboarding processes.
+
+35
+
+Introduction
+
+Our approach
+
+Product Direction
+continued
+
+Our business
+
+Our customers
+
+Industry
+tailored
+sustainability
+embedded
+solution
+
+Supplier
+Evaluation
+and Rating
+for supplier ESG
+peformance
+
+Broader impact
+
+Annex
+
+Sustainability
+management
+for CSRD
+
+1
+
+Data at
+the source
+
+2
+
+Emissions
+management
+
+3
+
+Emissions in
+Procurement
+
+Standardized
+
+for scope
+1&2
+
+IFS Sustainability
+Embedded
+
+These enhancements help build a more
+sustainable and resilient supply chain, enabling
+organizations to balance environmental
+responsibility with operational efficiency.
+
+Performant & Sustainability Assets
+Asset performance management helps
+our customers to understand the condition,
+performance and expected availability of
+their assets. It also leverages insights to reduce
+unplanned asset downtime, drive predictive
+maintenance, optimize energy and resources,
+and enhance their asset planning strategies.
+Failure Modes, Effects, and Criticality
+Analysis (FMECA)
+In 2024, we successfully integrated FMECA
+(Failure Modes, Effects, and Criticality Analysis)
+into IFS Cloud, enabling our customers to
+conduct a Risk-Based Assessment for any
+critical or complex asset.
+
+FMECA is a systematic approach used to
+identify and evaluate potential failures and
+failure modes. It utilizes a criticality matrix to
+assess and prioritize these failure modes based
+on their severity, probability, and detectability.
+This capability allows customers to create and
+adjust maintenance strategies, effectively
+minimizing the impact of the most critical
+failures.
+Anomaly detection
+Another significant integration is the
+introduction of anomaly detection with
+Operational Intelligence (OI), which allows us to
+identify sub-optimal performance in assets that
+may lead to increased energy consumption or
+emissions.
+This tool enables automated anomaly
+handling, guiding users on the next steps to
+take when an anomaly is detected, ensuring
+timely intervention and optimization of energy
+efficiency and emissions control.
+
+Remanufacturing
+for circular
+operations
+
+4
+
+Actionoriented
+
+Support
+regulations
+
+EcoFootprint
+
+Industry and Customer Specific
+Sustainability Embedded Solutions
+Instead of using a one-size-fits-all approach, IFS
+focuses on delivering tailored solutions that help
+customers meet their unique sustainability goals.
+This approach ensures that our solutions are
+aligned with what matters most to each customer.
+By understanding the sustainability objectives of
+our customers, we can provide the right offerings
+to suit their needs.
+
+for lifecycle
+assessment &
+substance
+tracking
+
+for Scope 3
+purchased
+goods
+
+36
+
+Product Direction
+continued
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+CASE STUDY
+
+EDF Renewables UK
+Chooses IFS Cloud
+to Power Ambitious
+Growth Plans
+EDF Renewables UK and Ireland, a leading
+renewable energy company specializing in wind,
+solar, and battery technology, has selected the
+IFS Cloud platform to implement Enterprise Asset
+Management (EAM) in support of their ambitious
+growth objectives.
+IFS offers a future-proof solution based on
+the concept of a composable enterprise,
+providing EDF Renewables UK and Ireland with
+the operational flexibility and business agility
+essential for innovative, high-growth companies.
+IFS powers the company’s Enterprise Asset
+Management, including Operation &
+Maintenance, Work Order Management,
+Contract Management and Mobile Workforce
+Management – a key aspect for the energy
+company that puts their employees at the heart
+of their business. As IFS Cloud is a single platform
+with a single data model supported by key value
+drivers such as Asset Performance Management,
+Internet of Things (IoT), mobile work execution and
+live dashboards and KPIs, the company is able
+to provide end-to-end visibility across multiple
+organizational structures and business units. IFS
+Cloud is deployed to 380 full users, with 90 mobile
+technicians.
+
+Delivering IFS Cloud forms a key
+part of our future growth strategy.
+The new platform will allow us to
+scale our business more efficiently
+and consistently, whilst also
+capturing the richer management
+information needed to drive
+continuous improvement and
+inform key decision-making.
+Using IFS Cloud will enable us
+optimize the quality and
+utilization of our assets, as
+well as create shareholder value
+through improved information
+flows. I couldn’t be more pleased
+to be working with IFS.”
+Piero Maggio
+Director of Asset Operations
+EDF Renewables UK & Ireland
+
+37
+
+Product Direction
+continued
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+CASE STUDY
+
+Anglian Water’s
+Investment
+Planning
+for Climate
+Resilience
+Anglian Water partnered with Copperleaf
+to enhance decision-making, manage
+asset risks, and align investment planning
+with sustainability goals, including
+achieving net zero by 2030. Together,
+they developed a value framework based
+on Anglian Water's six capitals model,
+promoting consistent and transparent
+decision-making across the organization.
+Copperleaf’s system supports investment
+planning by identifying high-value
+investments, adapting quickly to changes,
+and ensuring alignment with strategic
+goals and Sustainability factors.
+Anglian Water provides water to 7 million
+people in one of the hottest and driest
+areas of the UK, meaning climate resilience
+is a priority. Copperleaf decision analytics
+solution incorporated climate risk models
+developed by MapleSky, identifying
+the watermains most vulnerable to
+climate change. Through Copperleaf's
+optimization, Anglian Water expects to
+achieve 1.5-2% greater customer value in
+service risk mitigation, potentially saving
+up to £50 million over five years.
+Anglian Water has also exceeded its
+targets, cutting capital carbon by 61%
+compared to 2010 levels. Analysis shows
+that reducing capital costs and carbon
+are closely linked.
+
+38
+
+Introduction
+
+In supporting the IFS Foundation,
+we strengthen our social license to
+operate in Sri Lanka, and help the
+Foundation
+connect its work to
+xxxxxxxxxxxxxxxxxxxxxxxxx
+donors globally.”
+Stephen Keys
+Chief Talent Officer
+and Chair IFS Foundation
+
+IFS Foundation
+Education Program
+Volunteering
+
+39
+40
+41
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Environmental Impact
+Introduction & 2024 Progress Update
+At IFS, we are committed to reducing our
+environmental impact whilst continuing to
+achieve world-class business performance. This
+commitment is reflected in our direct efforts to
+reduce our own operational footprint, as well as
+impacts across our wider value chain through
+engagement and collaboration with value chain
+partners.
+
+Broader
+Impact
+Photograph Getty Images
+
+39
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+IFS Foundation
+We leverage the global fundraising capabilities
+of IFS to support our charity of choice, the IFS
+Foundation. The IFS Foundation helps kids in
+underserved Sri Lankan communities access
+a decent education, investing in projects that
+improve access to clean water, sanitation,
+healthcare, school infrastructure, and
+employment opportunities.
+Through 2024, we organized multiple fundraising
+initiatives by promoting the IFS Foundation
+across various channels. We always aim
+to implement creative ways to engage our
+colleagues, spreading awareness of the work
+we do. For instance, every year, IFS publishes
+a special book to support the IFS Foundation.
+In the past, we have produced a cookbook
+with recipes and a travel guide featuring our
+colleagues’ recommendations. This year, we
+invited colleagues to share photos of their
+homes or workspaces, which we then used
+to create a collective photo album.
+As a result of our collective efforts, the IFS
+Foundation raised over $300,000 in 2024,
+including contributions from IFS employees,
+partners and shareholder community.
+
+Building Meaningful
+Partnerships to Promote STEM
+The Hg Foundation, a grant-giving
+charity focused on improving tech
+education and skills, partnered with IFS
+and the IFS Foundation to promote STEM
+(Science, Technology, Engineering, and
+Mathematics) skills in remote and rural
+communities in Sri Lanka.
+The £64,000 grant from the Hg Foundation
+will fund the construction of a computer
+lab and staff training to deliver IT and STEM
+classes in the village of Weralugahamula.
+This crucial infrastructure will help ensure
+that children in the community have access
+to quality education.
+
+This year, we have also made tangible
+progress across projects in three villages,
+Welusumanapura, Weralugahamula and
+Madampe.
+Completed projects include:
+Weralugahamula
+ reated home employment opportunities
+C
+for 6 households
+Built 15 toilets for homes that have none
+ stablished a reverse osmosis water treatment
+E
+plant for the local school
+
+Welusumanapura
+ ompleted 6 new classrooms, expanding
+C
+school capacity from 450 to 650 students
+
+Madampe
+ efurbished the dental facility at a local
+R
+medical center
+ uilt a new neonatal care facility, vaccination
+B
+center, sanitation facility, waste disposal and
+reverse osmosis water treatment plant for the
+medical center
+
+IFS Foundation volunteering initiatives
+The CSR Volunteer Day is one of the ways we
+empower our colleagues to actively contribute
+to our Sustainability strategy. This year, many
+IFS employees dedicated their CSR days to
+volunteering for the IFS Foundation.
+As an example, several of our colleagues
+used their CSR day to paint and hand over
+a new dental facility, vaccination center and
+neonatal care room in Sri Lanka. This initiative
+received further support from IFS Chief
+Sustainability Officer, Sophie Graham, as well
+as representatives from Planted, an IFS partner
+and brand ambassador for the IFS Foundation.
+
+40
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Education Program
+Education is the cornerstone of stronger, more
+prosperous societies. As a large employer,
+we are committed to promoting the benefits
+of education to individuals and families. This
+commitment was one of the key drivers behind
+our goal to expand our Education Program
+to 150 institutions worldwide.
+
+Inspiring the Younger
+Generation: STEM Career Fairs
+As part of the IFS Education Program,
+we have partnered with IEEE to run STEM
+career fairs and talks in schools and
+colleges across Sri Lanka.
+
+The IFS Education Program aims to foster
+interest and engagement in STEM subjects while
+expanding opportunities and creating pathways
+into the technology sector for young people. We
+achieve this through four key methods: providing
+scholarships and internships, utilizing IFS
+software, donating equipment, and encouraging
+employees to volunteer their time.
+
+One of the first career fairs in 2024 took
+place at Galigamuwa Central College. The
+team talked about careers in STEM and the
+opportunities available for the students.
+Some of the feedback we received from the
+students attending these events:
+
+I was blind about my future
+until the session. Now, I know
+the path to achieve my ambition
+to be a lawyer.”
+
+As part of this program, every year we:
+ onate software and hardware such as laptops
+D
+and software licenses to schools, colleges and
+universities.
+ se our CSR volunteering days to attend career
+U
+talks and career fairs
+ entor students and fund scholarships
+M
+ ire young people into graduate and intern roles
+H
+
+We believe that this milestone is a testament
+to our dedication, collaboration, and strong
+commitment to make an impact. Over the years,
+we have established strong partnerships with
+organizations such as IEEE, a charity based in
+Sri Lanka that visits schools in rural areas to
+inspire and encourage students to consider
+careers in STEM.
+
+Educational Institutions
+Engaged
+99
+
+2022
+
+123
+
+2023
+2024
+0
+
+156
+25
+
+50
+
+75
+
+100
+
+Today’s program was
+exceptionally good. We learned
+many new things that will be
+very useful in our future.”
+
+125
+
+Number of institutions
+
+We are proud to announce that we hit our
+target with 156 educational institutions
+engaged in 2024.
+
+150
+
+Next Steps
+Having achieved our original target, we will now
+be reviewing our Education Program strategy,
+targets, and success metrics to ensure we
+continue inspiring people to explore careers
+in STEM as we move forward.
+Our 2025 focus will be on:
+ eveloping AI skills that will be essential
+D
+in the future
+ pskilling individuals whose jobs may evolve
+U
+due to AI advancements
+ ontinuing to encourage more females
+C
+to pursue careers in STEM
+ xpanding our reach to other
+E
+underrepresented groups
+
+I feel fortunate to have
+attended. I now have clarity on
+reaching my dream job.”
+
+41
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Volunteering
+The CSR Volunteer Day is one way
+in which we enable colleagues to
+play an active role in directly
+supporting our Sustainability
+strategy.
+In 2024, 25% of IFS employees
+volunteered, beating our target
+of 20% and achieving a growth
+of 5x since 2021
+
+We give every colleague one day of paid
+volunteering leave to spend time supporting
+their local communities and organizations close
+to their hearts.
+In 2024, we demonstrated compelling progress
+as 25% of IFS employees volunteered, beating
+our target of 20% and achieving a growth of
+5x since 2021. This compares to an industry
+average of 11% and global benchmark of 9%
+corporate volunteering uptake.* We’re proud to
+see community engagement becoming part of
+our culture, including kicking off 2025 with the
+largest corporate volunteering event IFS has
+held to date.
+
+How CSR Volunteer Days are Being Used Around the World
+During last year, IFS teams volunteered their time to support activities as varied as beach
+cleans, hospital painting and blood donations. Some of the standout team activities include:
+
+Sri Lanka
+
+Germany
+
+Denmark
+
+In Sri Lanka, our colleagues from the
+Engineering Hub Team spent their
+CSR day supporting Hewagama
+Junior School by conducting a
+workshop for its teachers. The
+session covered MS PowerPoint,
+presentation creation with tips and
+tricks, as well as an introductory IT
+session to enhance their skills.
+
+IFS colleagues used their CSR
+day by helping local church and
+kindergarten to prepare for the
+St. Martins celebrations. The team
+was involved in baking St. Martin's
+cookies, as well as preparing
+a farmstead for the evening
+celebrations.
+
+IFS team committed to volunteer
+for Red Cross as part of their CSR
+day. The team spent their day
+volunteering in a secondhand
+store, where they helped to sort and
+display for sale the donated items,
+as well as picking up donations.
+
+IFS Executive Leadership Team Stepped Up
+to Lead by Example
+In partnership with the Thomas Franks
+Foundation, our IFS Executive team
+packaged 500 meal portions that would
+have otherwise gone to landfill. These meals
+were then distributed to various groups in
+the Southeast England area, including the
+homeless and those reliant on food banks.
+
+IFS Ultimo Joins the UNICEF
+Business Buddies Program
+In 2024, IFS Ultimo became a part of the UNICEF
+Business Buddies program, which aims to help
+children in the Ivory Coast access education.
+The Plastic Bricks project not only promotes
+education in the region but also works towards
+creating a cleaner environment. A local UNICEF
+recycling plant purchases plastic waste and
+transforms it into plastic building bricks. These
+bricks are then used to construct classrooms.
+
+*	Benevity Impact Labs, The State of Corporate
+Reporting 2024 report"
+
+42
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Environmental Impact
+
+xxxxxxxxxxxxxxxxxxxxxxxxx
+
+Introduction & 2024 Progress Update
+At IFS, we are committed to reducing our
+environmental impact whilst continuing to
+achieve world-class business performance. This
+commitment is reflected in our direct efforts to
+reduce our own operational footprint, as well as
+impacts across our wider value chain through
+engagement and collaboration with value chain
+partners.
+
+Auditor's Report
+KPI Definitions
+GHG Inventory Breakdown
+GRI Index Table
+SASB
+UN Global Compact
+
+Annex
+43
+44
+46
+47
+49
+50
+
+Photograph Anshuman Shaji
+
+43
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Auditor’s Limited
+Assurance Report
+To IGT Holding III AB, corporate identity number 559033-9742
+
+We have been engaged by the Board
+of Directors of IGT Holding III AB (“IGT”)
+to undertake a limited assurance
+engagement on below specified
+information, presented in IGT’s annual
+accounts and consolidated financial
+statements for the year 2024.
+ umber of data breaches (page 10)
+N
+ of employees who have taken CSR leave
+%
+(page 10)
+ of renewable energy in IFS operations
+%
+(page 20)
+ otal scope 1 and scope 2 emissions tCO2e
+T
+(page 20)
+ of Group’s female managers (page 23)
+%
+ of women within the organization’s board
+%
+(page 23)
+ umber of Anti-bribery and Corruption
+N
+training participants (page 26)
+
+Responsibilities of the Board of Directors
+and the Executive Management for the
+Sustainability Report
+The Board of Directors and Executive
+Management are responsible for the
+preparation of the Sustainability Report in
+accordance with applicable criteria. The criteria
+are defined on page 47 in the Sustainability
+Report and consist of the GRI Sustainability
+Reporting Standards, as well as the accounting
+and calculation principles that the company
+has developed. This responsibility includes the
+internal control relevant to the preparation of
+a Sustainability Report that is free from material
+misstatements, whether due to fraud or error.
+Responsibilities of the Auditor
+Our responsibility is to express a conclusion
+on the above specified information based on
+the limited assurance procedures we have
+performed. The selection of information to be
+reviewed has been made by the management of
+IGT. Our review is limited to the above specified
+information in this document and does not
+include future oriented information.
+We conducted our limited assurance
+engagement in accordance with ISAE 3000
+(Revised) Assurance engagements other
+than audits or reviews of historical financial
+information. A limited assurance engagement
+consists of making inquiries, primarily of
+persons responsible for the preparation of the
+Sustainability Report, and applying analytical
+and other limited assurance procedures.
+
+The procedures performed in a limited
+assurance engagement vary in nature from,
+and are less in scope than for, a reasonable
+assurance engagement conducted in
+accordance with IAASB’s Standards on
+Auditing and other generally accepted auditing
+standards.
+The firm applies International Standard on
+Quality Management 1, which requires that
+we design, implement and operate a system
+of quality management including policies or
+procedures regarding compliance with ethical
+requirements, professional standards and
+applicable legal and regulatory requirements.
+We are independent of IGT in accordance
+with professional ethics for accountants in
+Sweden and have otherwise fulfilled our ethical
+responsibilities in accordance with these
+requirements.
+The procedures performed, consequently, do
+not enable us to obtain assurance that we would
+become aware of all significant matters that
+might be identified in a reasonable assurance
+engagement. Accordingly, we do not express
+a reasonable assurance conclusion.
+Our procedures are based on the criteria
+defined by the Board of Directors and the
+Executive Management as described above.
+We consider these criteria suitable for the
+preparation of the Sustainability Report. We
+believe that the evidence we have obtained
+is sufficient and appropriate to provide a basis
+for our conclusion below.
+
+Conclusion
+Based on the limited assurance procedures
+we have performed, nothing has come to our
+attention that causes us to believe that the
+above specified information is not prepared,
+in all material respects, in accordance with the
+criteria defined by the Board of Directors and
+Executive Management.
+Stockholm, 29 April 2025
+Ernst & Young AB
+Andreas Nyberg Selvring
+Authorized Public
+Accountant
+
+Outi Alestalo
+Specialist member of FAR
+
+44
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+KPI Definition
+KPI Definition
+
+ESRS E1 Climate
+Change
+
+KPI
+
+Definition
+
+Scope
+
+Methodology
+
+E1-5 Energy Consumption and Mix
+(Percentage of renewable energy in
+IGT III operations)
+
+Renewable electricity (RE) is generated from renewable
+resources, which are naturally replenished on a human
+timescale, such as sunlight, wind, rain, tides, waves,
+and geothermal heat. IFS purchases Energy Attribute
+Certificates (EACs) to cover its grid electricity consumption
+across global facilities that are under its operational
+control. 1 EAC represents 1 MWh of verified 100% RE
+generated by a provider. Green tariffs refer to contracts for
+100% RE that usually consist of bundled EACs. Purchasing
+EACs therefore enables IFS to decarbonize its electricity
+supply.
+
+IFS sites under operational
+control
+
+Managed and reported via IFS
+Cloud Emissions Management,
+our proprietary energy and
+emissions calculation software.
+
+IFS reports direct GHG emissions from sources under
+operational control as IFS Scope 1. Emissions are
+generated from stationary combustion of fuels (natural
+gas and fuel oil) at global facilities.
+ IFS purchases electricity, district heating and district
+cooling for consumption at global facilities under
+its operational control. The indirect GHG emissions
+released from the generation of this purchased energy
+by utilities and power generators is reported as IFS Scope
+2. IFS reports its Scope 2 emissions under both locationbased and market-based approaches as defined by the
+Greenhouse Gas Protocol.
+
+IFS sites under operational
+control
+
+Managed and reported via IFS
+Cloud Emissions Management,
+our proprietary energy and
+emissions calculation software.
+
+E1-6 Gross Scopes 1 and 2 GHG
+emissions (Scope 1 and Scope 2
+emissions related to energy use in
+IGT III´s facilities and offices)
+
+E1-7 GHG removals and GHG
+mitigation projects financed
+through Carbon Credits
+(quantitative only)
+
+ 
+
+IFS invests in a portfolio of carbon removal and GHG
+mitigation projects to support scaling of the global
+carbon removals market.
+ These projects are financed through carbon credits.
+One credit equals one tonne of carbon dioxide
+equivalent (tCO2e) removed or avoided.
+ Carbon credits can be “retired” or “cancelled” in a
+different year to the investment year. Under ESRS E1-7
+we will specify and report the carbon credits that are
+cancelled in the reporting year.
+ 
+
+Purchased and reported via
+Patch and their digital carbon
+portfolio platform.
+
+Annex
+
+45
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+KPI Definition
+continued
+SRS S1 Own
+Workforce
+
+S1-1 Policies related to own
+workforce
+
+IFS Volunteering Policy and Guidelines
+
+IFS employees
+
+Shared by the IFS’ HR team
+
+S1-2 Processes for engaging with
+own workforce and workers’
+representatives about impacts
+(Percentage of employees who have
+taken CSR leave)
+
+This KPI demonstrates the percentage of employees who
+used their CSR leave in part or whole against the average
+number of employees across the Group in the period.
+These hours include volunteering in company time that has
+been directly recorded via internal HR system.
+
+IFS employees
+
+Obtained via internal HR
+Dashboard
+
+S1-9 Diversity Metrics (Female
+Managers)
+
+This KPI demonstrates the percentage of women
+among the Group's executives, directors, officers and
+management roles ('People Managers’) against the total
+number of employees at those levels. Data is calculated
+as a point in time average of the actual number of female
+managers at each quarter end in the year 2024.
+
+IFS employees
+
+Obtained via internal HR
+Dashboard
+
+ESRS S4 Consumers
+& End User
+
+S4-5 Targets related to managing
+material negative impacts,
+advancing positive impacts,
+and managing material risks
+and opportunities (Number of
+Reportable Events)
+
+This KPI includes major Reportable Events of data security
+breaches. “Reportable Event” means any major security
+incident resulting in:
+1.	Loss of customer, employee or financial data outside of
+the Group;
+2.	Major business and operational disruption to services as
+a direct result of such cyber incident; and
+3.	Financial loss, in each case as a result of a ransomware
+or other major cyber-attack, and which the Group is
+obligated to report to the relevant regulator.
+
+IFS operations
+
+Continuous monitoring via formal
+system reporting
+
+ESRS G1 Business
+Conduct
+
+G1-1 Business conduct policies and
+corporate culture
+
+IFS Code of Conduct
+
+IFS employees
+
+Annually reviewed by HR and
+Compliance
+
+G1-3 Procedures to address
+corruption and bribery (Number of
+anti-bribery and corruption training
+participants)
+
+This includes the number of existing IFS employees, who
+completed the IFS's mandatory Antibribery and Corruption
+training in the year of 2024.
+
+IFS employees
+
+Tracked by internal training
+platform, IFS Academy
+
+EU Taxonomy
+
+Eligible Activities
+
+This involves mapping all of IFS activities and matching
+them with the activities listed in the EU Taxonomy.
+
+IFS operations
+
+Conducted with the assistance of
+a third-party provider.
+
+ESRS 2 General
+Disclosures
+(incl DMA)
+
+GOV-1 The Role of administrative,
+management and supervisory
+bodies
+
+N/A
+
+IFS operations
+
+N/A
+
+GOV-2 Information provided to and
+sustainability matters addressed
+by the undertakings administrative,
+management and supervisory
+bodies
+
+N/A
+
+IFS operations
+
+N/A
+
+GOV-5 Risk management and
+internal controls over sustainability
+reporting
+
+N/A
+
+IFS operations
+
+N/A
+
+IRO-1 Description of the processes
+to identify and assess material
+impacts, risks and opportunities
+
+N/A
+
+IFS operations
+
+N/A
+
+IRO-2 Disclosure Requirements in
+ESRS covered by the undertakings
+sustainability statements
+
+N/A
+
+IFS operations
+
+N/A
+
+Annex
+
+46
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+Market-Based
+Emissions (tCO2e)
+
+Share (%)
+
+Estimated (%)
+
+Location-Based
+Emissions (tCO2e)
+
+Share (%)
+
+Estimated (%)
+
+District Cooling
+
+9
+
+19%
+
+7%
+
+9
+
+0%
+
+7%
+
+GHG Inventory Breakdown
+The tables below contain a breakdown of
+IFS Scope 1, 2 and 3 greenhouse gas emissions
+in 2024.
+Emissions are defined as 'estimated' when the
+underlying activity data used for the emissions
+calculation has been estimated, using historical
+data or assumptions, due to 'actual' data being
+unavailable.
+
+Scope 1
+Category
+
+Scope 2
+Emissions Source
+
+Emissions (tCO2e)
+
+Share (%)
+
+Estimated (%)
+
+Stationary
+Combustion
+
+351
+
+53
+
+63%
+
+Mobile Combustion
+
+265
+
+40
+
+0
+
+District Heating
+
+38
+
+81%
+
+7%
+
+38
+
+2%
+
+7%
+
+Fugitive Emissions
+
+46
+
+7
+
+96
+
+Electric Power
+
+-
+
+0%
+
+0%
+
+2,157
+
+98%
+
+19%
+
+Total
+
+662
+
+100
+
+40
+
+Total
+
+47
+
+100%
+
+7%
+
+2,204
+
+100%
+
+19%
+
+Emissions
+(tCO2e)
+
+Share (%)
+
+Estimated (%)
+
+15,028
+
+47%
+
+1%
+
+Scope 3
+#
+
+Emissions Category
+
+1
+
+Purchased goods and
+services
+
+2
+
+Capital goods
+
+1,210
+
+4%
+
+0%
+
+3
+
+Fuel- and energyrelated activities
+
+366
+
+1%
+
+0%
+
+5
+
+Waste generated in
+operations
+
+3
+
+0%
+
+96%
+
+6
+
+Business travel
+
+11,167
+
+35%
+
+0%
+
+7
+
+Employee commuting
+
+2,855
+
+9%
+
+91%
+
+15
+
+Investments
+
+1,522
+
+5%
+
+0%
+
+32,153
+
+100%
+
+9%
+
+Total
+
+47
+
+Introduction
+
+GRI Index Table
+Statement of use
+IFS AB has reported the information cited in this
+GRI content index for the period 1 January 2024
+to 31 December 2024, with reference to the GRI
+Standards.
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+GRI 1 used
+GRI 1: Foundation 2021
+
+GRI Standard
+
+Disclosure
+
+Location in Sustainability Report 2024 [SR]
+Year in Review 2024 [YR] or our website [IFS.com]
+
+GRI 2: General Disclosures 2021
+
+2-1
+
+Organizational details
+
+Our Approach [SR] and [IFS.com]
+
+2-2
+
+Entities included in the organization’s sustainability reporting
+
+Our Approach [SR]
+
+2-3
+
+Reporting period, frequency and contact point
+
+Our Approach [SR]
+
+2-4
+
+Restatements of information
+
+N/A
+
+2-5
+
+External assurance
+
+Our Approach [SR]
+
+2-6
+
+Activities, value chain and other business relationships
+
+About us [IFS.com]
+
+2-7
+
+Employees
+
+Our Business in Numbers [YR]
+
+2-8
+
+Workers who are not employees
+
+Not currently disclosed
+
+2-9
+
+Governance structure and composition
+
+Leadership [IFS.com]
+
+2-10
+
+Nomination and selection of the highest governance body
+
+Not currently disclosed
+
+2-11
+
+Chair of the highest governance body
+
+Leadership [IFS.com]
+
+2-12
+
+Role of the highest governance body in overseeing the management of impacts
+
+Governance [SR]
+
+2-13
+
+Delegation of responsibility for managing impacts
+
+Governance [SR]
+
+2-14
+
+Role of the highest governance body in sustainability reporting
+
+Governance [SR]
+
+2-15
+
+Conflicts of interest
+
+Not currently disclosed
+
+2-16
+
+Communication of critical concerns
+
+Whistleblowing [SR]
+
+2-17
+
+Collective knowledge of the highest governance body
+
+Governance [SR]
+
+2-18
+
+Evaluation of the performance of the highest governance body
+
+Governance [SR]
+
+2-19
+
+Remuneration policies
+
+Not currently disclosed
+
+2-20
+
+Process to determine remuneration
+
+Not currently disclosed
+
+2-21
+
+Annual total compensation ratio
+
+Not currently disclosed
+
+2-22
+
+Statement on sustainable development strategy
+
+Our Climate Strategy [SR]
+
+2-23
+
+Policy commitments
+
+IFS Website
+
+2-24
+
+Embedding policy commitments
+
+IFS Website
+
+2-25
+
+Processes to remediate negative impacts
+
+IFS Website
+
+2-26
+
+Mechanisms for seeking advice and raising concerns
+
+Whistleblowing [SR]
+
+2-27
+
+Compliance with laws and regulations
+
+Not currently disclosed
+
+2-28
+
+Membership associations
+
+External framework [SR]
+
+2-29
+
+Approach to stakeholder engagement
+
+Not currently disclosed
+
+2-30
+
+Collective bargaining agreements
+
+IFS Website
+
+48
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+GRI Index Table
+continued
+GRI 3: Material Topics 2021
+
+GRI 205: Anti-corruption 2016
+
+GRI 206: Anti-competitive Behavior 2016
+GRI 305: Emissions 2016
+
+GRI 401: Employment 2016
+
+GRI 404: Training and Education 2016
+
+GRI 405: Diversity and Equal Opportunity 20
+
+GRI 418: Customer Privacy 2016
+
+3-1
+
+Process to determine material topics
+
+Double Materiality [SR]
+
+3-2
+
+List of material topics
+
+Double Materiality [SR]
+
+3-3
+
+Management of material topics
+
+Double Materiality [SR]
+
+205-1 Operations assessed for risks related to corruption
+
+IFS Website
+
+205-2 Communication and training about anti-corruption policies and procedures
+
+Anti-corruption [SR]
+
+205-3 Confirmed incidents of corruption and actions taken
+
+0
+
+206-1 Legal actions for anti-competitive behavior, anti-trust, and monopoly practices
+
+Not currently disclosed
+
+305-1 Direct (Scope 1) GHG emissions
+
+Our Carbon Footprint [SR]
+
+305-2 Energy indirect (Scope 2) GHG emissions
+
+Our Carbon Footprint [SR]
+
+305-3 Other indirect (Scope 3) GHG emissions
+
+Our Carbon Footprint [SR]
+
+305-4 GHG emissions intensity
+
+Not currently disclosed
+
+305-5 Reduction of GHG emissions
+
+Our Carbon Footprint [SR]
+
+305-6 Emissions of ozone-depleting substances (ODS)
+
+Not currently disclosed
+
+305-7 Nitrogen oxides (NOx), sulfur oxides (SOx), and other significant air emissions
+
+Not currently disclosed
+
+401-1
+
+New employee hires and employee turnover
+
+Not currently disclosed
+
+401-2 Benefits provided to full-time employees that are not provided to temporary or part-time employees
+
+Not currently disclosed
+
+401-3 Parental leave
+
+Not currently disclosed
+
+404-1 Average hours of training per year per employee
+
+Not currently disclosed
+
+404-2 Programs for upgrading employee skills and transition assistance programs
+
+Compliance trainings [SR]
+
+404-3 Percentage of employees receiving regular performance and career development reviews
+
+Not currently disclosed
+
+405-1 Diversity of governance bodies and employees
+
+Our People [SR]
+
+405-2 Ratio of basic salary and remuneration of women to men
+
+Not currently disclosed
+
+406-1 Incidents of discrimination and corrective actions taken
+
+0
+
+418-1
+
+IFS Cyber Security & Privacy [SR]
+
+Substantiated complaints concerning breaches of customer privacy and losses of customer data
+
+Annex
+
+49
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+Annex
+
+SASB Index Table
+Topic/Code
+
+Accounting metric
+
+Location in Sustainability Report 2024 [SR], Year in Review 2024 [YR],
+website [IFS.com] or answer
+
+TC-SI-130a.1
+
+(1)Total energy consumed, (2) percentage grid electricity, (3) percentage renewable
+
+Renewable Electricity [SR]
+
+TC-SI-130a.2
+
+(1) T
+ otal water withdrawn, (2) total water consumed, percentage of each in regions with High
+or Extremely High Baseline Water Stress
+
+Not currently disclosed
+
+TC-SI-130a.3
+
+Discussion of the integration of environmental considerations into strategic planning for
+data center needs
+
+Environmental Impact [SR]
+
+TC-SI-220a.1
+
+Description of policies and practices relating to behavioral advertising and user privacy
+
+IFS Cyber Security & Privacy [SR]
+
+TC-SI-220a.2
+
+Number of users whose information is used for secondary purposes
+
+0
+
+TC-SI-220a.3
+
+Total amount of monetary losses as a result of legal proceedings associated with user privacy
+
+0
+
+TC-SI-220a.4
+
+(1) Number of law enforcement requests for user information, (2) number of users whose information
+was requested, (3) percentage resulting in disclosure
+
+0
+
+TC-SI-220a.5
+
+List of countries where core products or services are subject to government-required monitoring,
+blocking, content filtering, or censoring
+
+0
+
+TC-SI-230a.1
+
+(1) Number of data breaches, (2) percentage involving personally identifiable information (PII), (3)
+number of users affected
+
+IFS Cyber Security & Privacy [SR]
+
+TC-SI-230a.2
+
+Description of approach to identifying and addressing data security risks, including use of third-party
+cybersecurity standards
+
+IFS Cyber Security & Privacy [SR]
+
+TC-SI-330a.1
+
+Percentage of employees that are (1) foreign nationals and (2) located offshore
+
+Not currently disclosed
+
+TC-SI-330a.2
+
+Employee engagement as a percentage
+
+Employee Engagement [SR]
+
+TC-SI-330a.3
+
+Percentage of gender and racial/ethnic group representation for (1) management, (2) technical staff,
+and (3) all other employees
+
+2024 Gender Diversity [SR]
+
+Total amount of monetary losses as a result of legal proceedings associated with anticompetitive
+behavior regulations
+
+Not currently disclosed
+
+TC-SI-550a.1
+
+Number of (1) performance issues and (2) service disruptions; (3) total customer downtime
+
+Trust Center [IFS.com]
+
+TC-SI-550a.2
+
+Description of business continuity risks related to disruptions of operations
+
+IFS Cyber Security & Privacy [SR]
+
+Topic/Code
+
+Activity metric
+
+Location in Sustainability Report 2022 [SR] or answer
+
+TC-SI-000.A
+
+(1) Number of licenses or subscriptions, (2) percentage cloud based
+
+Sustainability Year in Review
+
+TC-SI-000.B
+
+(1) Data processing capacity, (2) percentage outsourced
+
+Not currently disclosed
+
+TC-SI-000.C
+
+(1) Amount of data storage, (2) percentage outsourced
+
+Not currently disclosed
+
+Environmental Footprint of Hardware Infrastructure
+
+Data Privacy & Freedom of Expression
+
+Data Security
+
+Recruiting & Managing a Global, Diverse & Skilled Workforce  
+
+Intellectual Property Protection & Competitive Behavior
+TC-SI-520a.1
+Managing Systemic Risks from Technology Disruption
+
+50
+
+Introduction
+
+Our approach
+
+Our business
+
+Our customers
+
+Broader impact
+
+UN Global Compact Principles
+Area
+
+Principle
+
+Location in this report [SR]
+
+Human Rights
+
+Principle 1: Businesses should support and respect the protection of internationally proclaimed human
+rights; and
+
+Human Rights [SR]
+
+Principle 2: make sure that they are not complicit in human rights abuses.
+
+Human Rights [SR]
+
+Labor
+
+Principle 3: Businesses should uphold the freedom of association and the effective recognition of the
+right to collective bargaining;
+
+Human Rights [SR]
+
+Principle 4: the elimination of all forms of forced and compulsory labor;
+
+Human Rights [SR]
+
+Principle 5: the effective abolition of child labor; and
+
+Human Rights [SR]
+
+Principle 6: the elimination of discrimination in respect of employment and occupation.
+
+Human Rights [SR]
+
+Principle 7: Businesses should support a precautionary approach to environmental challenges;
+
+Environment
+
+Anti-Corruption
+
+Principle 8: undertake initiatives to promote greater environmental responsibility; and
+
+Environmental Impact [SR]
+
+Principle 9: encourage the development and diffusion of environmentally friendly technologies.
+
+Environmental Impact [SR]
+
+Principle 10: Businesses should work against corruption in all its forms, including extortion and bribery.
+
+Photography
+Kurt Rebry
+Alain Gehri
+Nikita Ermilov
+Moritz Lange
+Getty Images
+Adrian Dascal
+PMKConsult
+Pawel Czerwinski
+
+Dan Meyers
+Sascha Bosshard
+Philipp Katzenberger
+Jamie Street
+EDF
+Anglian Water
+Anshuman Shaji
+Natalia Blauth
+
+Copyright ©2025 Industrial and Financial Systems, ifs ab. IFS and all IFS
+products and services names are trademarks of IFS. All rights reserved.
+This document may contain statements of possible future functionality
+for ifs’s products and technology. Such statements are for information
+purposes only and should not be interpreted as any commitment or
+representation. The names of actual companies and products mentioned
+herein may be the trademarks of their respective owners.
+
+Annex
+
+For further information or queries about the
+report please contact sustainability@ifs.com
+
+

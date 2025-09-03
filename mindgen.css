@@ -1,0 +1,135 @@
+/* Mindgen component styles
+ * Configuration (CSS variables):
+ *  --mg-primary: base hue for nodes and links.
+ *  --mg-accent: accent hue for collapsed nodes and toggles.
+ *  --mg-radius: corner radius for nodes.
+ *  --mg-shadow: box-shadow applied to nodes.
+ *  --mg-link: stroke color for connecting lines.
+ *
+ * Usage: override these on :root or a wrapper.
+ * Example:
+ *   :root { --mg-primary: #0ea5e9; --mg-accent: #f59e0b; }
+ */
+:root {
+  --mg-primary: var(--bs-primary, #0d6efd);
+  --mg-accent: var(--bs-danger, #dc3545);
+  --mg-radius: 6px;
+  --mg-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  --mg-link: #999;
+  --mg-lightness: 0.95;
+
+  /* Derived colors */
+  --mg-primary-dark: color-mix(in oklch, var(--mg-primary) 85%, black);
+  --mg-primary-light: color-mix(in oklch, var(--mg-primary) 55%, white);
+  --mg-bg-0: oklch(from var(--mg-primary) var(--mg-lightness) c calc(h + 0));
+  --mg-bg-1: oklch(from var(--mg-primary) var(--mg-lightness) c calc(h + 60));
+  --mg-bg-2: oklch(from var(--mg-primary) var(--mg-lightness) c calc(h + 120));
+  --mg-bg-3: oklch(from var(--mg-primary) var(--mg-lightness) c calc(h + 180));
+  --mg-collapsed-bg: color-mix(in oklch, var(--mg-accent) 10%, var(--bs-body-bg, white));
+}
+
+/* In dark mode, use lightness as-is. */
+[data-bs-theme="dark"] {
+  --mg-lightness: l;
+}
+
+.node {
+  position: absolute;
+  padding: 8px 12px;
+  border: 2px solid var(--mg-primary);
+  border-radius: var(--mg-radius);
+  background: #fff;
+  cursor: move;
+  user-select: none;
+  font-size: 14px;
+  transition: none;
+  box-shadow: var(--mg-shadow);
+  max-width: 15rem;
+}
+
+.node.root {
+  border-color: var(--mg-primary-dark);
+  background: var(--mg-bg-0);
+  font-weight: 600;
+  z-index: 1000;
+}
+.node.depth-1 {
+  border-color: var(--mg-primary);
+  background: var(--mg-bg-1);
+  z-index: 900;
+}
+.node.depth-2 {
+  border-color: var(--mg-primary-light);
+  background: var(--mg-bg-2);
+  z-index: 800;
+}
+.node.depth-3 {
+  border-color: var(--mg-primary-light);
+  background: var(--mg-bg-3);
+  z-index: 700;
+}
+
+/* Collapsed nodes stand out */
+.node.collapsed {
+  border-color: var(--mg-accent);
+  background: var(--mg-collapsed-bg);
+}
+
+/* Pinned visual hint */
+.node.pinned {
+  box-shadow:
+    0 0 0 2px rgba(255, 215, 0, 0.35) inset,
+    0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+path.link {
+  fill: none;
+  stroke: var(--mg-link);
+  stroke-width: 1.5;
+  opacity: 0.6;
+}
+
+.node-toggle {
+  position: absolute;
+  right: -12px;
+  bottom: -12px;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 30% 30%, var(--mg-primary-light), var(--mg-primary));
+  color: #fff;
+  border: 2px solid #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1;
+  cursor: pointer;
+  pointer-events: auto;
+  user-select: none;
+}
+.node-toggle:hover {
+  transform: scale(1.05);
+}
+
+/* Toggle color when parent is collapsed */
+.node.collapsed .node-toggle {
+  background: radial-gradient(circle at 30% 30%, color-mix(in oklch, var(--mg-accent) 50%, white), var(--mg-accent));
+}
+
+/* Demo card styling */
+.demo-card {
+  transition: all 0.2s ease;
+}
+
+.demo-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+}
+
+.demo-card.border-primary {
+  border-color: var(--bs-primary) !important;
+  box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+}

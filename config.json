@@ -1,0 +1,28 @@
+{
+  "demos": [
+    {
+      "name": "Amazon Sustainability Report 2024",
+      "url": "docs/sustainability-amazon-2024.txt",
+      "source": "https://sustainability.aboutamazon.com/2024-amazon-sustainability-report.pdf",
+      "description": "Outlines goals, progress, and governance across decarbonization, waste, packaging, water, biodiversity, human rights, responsible supply chain, community impact, and employee safety, aligned to major frameworks."
+    },
+    {
+      "name": "IFS Sustainability Report 2024",
+      "url": "docs/sustainability-ifs-2024.txt",
+      "source": "https://www.ifs.com/-/media10/project/ifs/ifs/assets/ifs_sustainability-report_2024.pdf",
+      "description": "Summarizes strategy, governance, material topics, environmental impact, people, human rights, procurement, cybersecurity, and tax, highlighting industrial AI, global operations, and limited assurance over key indicators."
+    },
+    {
+      "name": "Leon County Broadband RFP 2025",
+      "url": "docs/rfp-leon-county-2025.txt",
+      "source": "https://www.co.leon.tx.us/upload/page/10053/RFP%202025-335%20Broaband%20Expansion%20Partnership%20Development-%20final%202.pdf",
+      "description": "Seeks a broadband expansion partnership, detailing submission instructions, contract terms, procurement standards, proposer qualifications, scope of work, evaluation criteria, schedule, and required forms for compliant proposals."
+    },
+    {
+      "name": "EBA ESG Guidelines 2025",
+      "url": "docs/esg-eba-2025.txt",
+      "source": "https://www.eba.europa.eu/sites/default/files/2025-01/fb22982a-d69d-42cc-9d62-1023497ad58a/Final%20Guidelines%20on%20the%20management%20of%20ESG%20risks.pdf",
+      "description": "Sets minimum standards and methodologies for identifying, measuring, managing, and monitoring ESG risks in EU institutions, integrating ESG into risk frameworks, plans, metrics, and scenarios, effective 2026/2027."
+    }
+  ]
+}
