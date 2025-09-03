@@ -119,7 +119,7 @@ export function mindgen(hierarchyData, options = {}) {
   nodeEnter
     .append("div")
     .attr("class", "node-text")
-    .text((n) => n.data.text);
+    .html((n) => n.data.text);
 
   // Double-click releases pinning (explicit UX for discoverability)
   nodeEnter.on("dblclick", (event, n) => {
@@ -142,7 +142,7 @@ export function mindgen(hierarchyData, options = {}) {
     .classed("depth-3", (n) => n.depth >= 3)
     .classed("collapsed", (n) => isCollapsed(n))
     .classed("pinned", (n) => n.data.pinned);
-  nodeMerge.select(".node-text").text((n) => n.data.text);
+  nodeMerge.select(".node-text").html((n) => n.data.text);
 
   // 8) Per-node collapse toggle (present only when a node can toggle)
   const toggle = nodeMerge.selectAll(".node-toggle").data(
