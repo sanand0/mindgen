@@ -132,38 +132,6 @@ Customize this in the "Advanced" settings to focus on specific aspects like:
 - Financial implications
 - Technical specifications
 
-## Browser Compatibility
+## LICENSE
 
-- Chrome/Edge 88+
-- Firefox 85+
-- Safari 14+
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Make your changes and test thoroughly
-4. Commit with clear messages: `git commit -m "Add feature description"`
-5. Push to your fork: `git push origin feature-name`
-6. Submit a pull request
-
-## License
-
-This project is open source. See the repository for license details.
-
-## Support
-
-- 🐛 **Issues**: [GitHub Issues](https://github.com/sanand0/mindgen/issues)
-- 💡 **Feature Requests**: Create an issue with the "enhancement" label
-- 📧 **Contact**: Check the repository for contact information
-
-## Acknowledgments
-
-- Built with [D3.js](https://d3js.org/) for powerful data visualization
-- Uses [Bootstrap](https://getbootstrap.com/) for responsive UI components
-- Powered by [OpenAI](https://openai.com/) for intelligent document analysis
-- Utilizes various open-source libraries for enhanced functionality
-
----
-
-**Ready to visualize your documents?** [Try MindGen now!](https://sanand0.github.io/mindgen/)
+[MIT](LICENSE)
